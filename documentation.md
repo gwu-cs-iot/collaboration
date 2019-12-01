@@ -1,2 +1,3 @@
 - The [c build process](https://blog.feabhas.com/2012/06/the-c-build-process/)
 - [Linker scripts](http://software-dl.ti.com/ccs/esd/documents/sdto_cgt_Linker-Command-File-Primer.html) and how to place programs explicitly in memory.
+- [All things](https://github.com/nhivp/Awesome-Embedded) low-level and embedded.
