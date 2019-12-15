@@ -6,8 +6,8 @@
 | --- | --- | --- |
 | T 1.14 | IoT and class background | - |
 | R 1.16 | Real-time and embedded systems | Fill out class [survey](https://forms.gle/xkXFdTXT64gF7TzcA) |
-| T 1.21 | Protection in embedded systems | PR to add at least one (non-redundant) link to [project inspiration](https://github.com/gwu-iot/collaboration/blob/master/inspiration.md), properly described |
-| R 1.22 | Guest lecture: Human Interactions w/ Prof. Park |  |
+| T 1.21 | Protection in embedded systems | PR to add at least one (non-redundant) link to [project inspiration](https://github.com/gwu-iot/collaboration/blob/master/inspiration.md), and make sure to add a proper description |
+| R 1.22 | Guest lecture: Human/Robot Interactions w/ Prof. Park |  |
 | T 1.28 | | |
 | R 1.30 | | |
 | T 2.4 | | |
