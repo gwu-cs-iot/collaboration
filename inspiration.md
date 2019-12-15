@@ -2,6 +2,9 @@
 
 Please add more! PRs accepted.
 
+- The [F1/10](http://f1tenth.org/) competition has everything you need to make a 1/10 scale, autonomous racer.
+    What if we wanted to make one of these using *distributed* sensors, instead of an expensive LIDAR sensor?
+    What if we wanted to make multiple vehicles communicate?
 - The making and design processes behind the [deadmau5 cube v3](https://www.youtube.com/watch?v=waGzVes6PWY) which uses embedded physical control to create a sound-interactive viewing experience.
 - Taking instruments [beyond MIDI](https://www.youtube.com/watch?v=x5MuKTkukIw), and creating a suite of sound-control instruments based around highly physical interactivity.
 - Taking the classical [inverted pendumlum](https://www.youtube.com/watch?v=Owe0o0ynUbY) problem to the realm of cheap mobility with `edumips`.
