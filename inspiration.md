@@ -17,3 +17,4 @@ Please add more! PRs accepted.
 - Our calendars rule our lives.
     Wouldn't it be nice if we could see both time and our schedule [at a glance?](https://www.instructables.com/id/CalClock-Simply-See-Your-Schedule/)
 - Why have a [Furby](https://en.wikipedia.org/wiki/Furby) if you can't [pwn a Furby](https://github.com/iafan/Hacksby)
+- [Track and punish](https://www.youtube.com/watch?v=a_TSR_v07m0) package delivery robbers with cloud-connected embedded systems.
