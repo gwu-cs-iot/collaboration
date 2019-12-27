@@ -13,9 +13,9 @@ The paper interpretation and discussion will be broken down into three phases:
 
 ### Where to provide your review for Phase 2
 
-The student assigned with leading the paper's presentation and discussion will create an "Issue" with the "paper discussion" tag.
+The student assigned with leading the paper's presentation and discussion will create an "Issue" with the `paper discussion` tag.
 You must provide your paper review as a reply to that issue.
-If the student leading the paper's discussion has not yet posted the issue, you should post an issue @-ing them to post the issue.
+If the student leading the paper's discussion has not yet posted the issue, you should post an issue `@`-ing them to post the issue.
 
 ### Timeline
 
