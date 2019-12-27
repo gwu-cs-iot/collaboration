@@ -119,16 +119,4 @@ The goal of a review is *not* to judge the paper, but instead to raise a set of 
 
 The in-class discussion of each paper will be led by a single student.
 That student is responsible to present the paper, *and to present a representative render of the reviews* of their peers.
-Each presentation *must* be highly practiced, and should be targetted for *20 minutes*. 
-As a rough guide, this 20 minutes should be decomposed as:
-
-- 7 minutes on background, and the problem domain.
-- 1 minutes a clear definition of the problem being solved, and a high-level description of how the authors solve it (lacking details).
-- 2 minutes discussing assumptions about the problem domain and solution.
-- 4 minutes discussing a high-level design of the system and how it solves the problem.
-- 5 minutes discussing evaluation.
-- 1 minute 
-
-Note that the presentation might go longer than this as everyone in the class should ask clarification questions if there are confusions.
-
-After this presentation, the leader should put a representative set of student questions on the screen, and we'll use them to guide another 20 minutes of discussion.
+See [the presentation guide](https://github.com/gwu-iot/collaboration/blob/master/discussion_leader.md) for more information.
