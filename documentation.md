@@ -8,3 +8,4 @@ C development for embedded systems:
 How to interact with physical systems:
 - Understanding control of physical systems using a [PID](https://www.youtube.com/watch?v=wkfEZmsQqiA&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y) controller.
 - Removing errors in state estimation using [Kalman filters](https://www.youtube.com/watch?v=mwn8xhgNpFY&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr).
+- Integrating multiple sensor's information to estimate system state using [sensor fusion](https://www.youtube.com/watch?v=6qV3YjFppuc)
