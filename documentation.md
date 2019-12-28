@@ -3,3 +3,4 @@
 - [All things](https://github.com/nhivp/Awesome-Embedded) low-level and embedded.
 - C development: [visibility and includes](https://www.youtube.com/watch?v=P8g4B9c0i8A&t=490s), [generic data-structures](https://www.youtube.com/watch?v=AUYYN3mqSGU&t=3s), and [polymorphism](https://www.youtube.com/watch?v=bZO0A1tj2MI)
 - Makefile [tutorial](https://www.youtube.com/watch?v=DtGrdB8wQ_8)
+- Understanding control of physical systems using a [PID](https://www.youtube.com/watch?v=wkfEZmsQqiA&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y) controller.
