@@ -22,3 +22,4 @@ Please add more! PRs accepted.
 - Why have a [Furby](https://en.wikipedia.org/wiki/Furby) if you can't [pwn a Furby](https://github.com/iafan/Hacksby)
 - [Track and punish](https://www.youtube.com/watch?v=a_TSR_v07m0) package delivery robbers with cloud-connected embedded systems.
 - [Application development environment](https://www.youtube.com/watch?v=uE0bP-AS_sQ) for IoT devices.
+- A [gameboy screen/sterio](https://youtu.be/FsqfhFsk2PQ?t=248)? Why not!
