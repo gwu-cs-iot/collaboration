@@ -23,4 +23,4 @@ Please add more! PRs accepted.
 - [Track and punish](https://www.youtube.com/watch?v=a_TSR_v07m0) package delivery robbers with cloud-connected embedded systems.
 - [Application development environment](https://www.youtube.com/watch?v=uE0bP-AS_sQ) for IoT devices.
 - A [gameboy screen/sterio](https://youtu.be/FsqfhFsk2PQ?t=248)? Why not!
-- [Remote control human orchestra?](https://www.youtube.com/watch?v=Dph-bkJL_wM) Sure, why not! Flip CPS around and use human as actuator.
+- [Remote control human orchestra?](https://www.youtube.com/watch?v=Dph-bkJL_wM) Sure, why not! Flip CPS around and use [human as actuator](https://www.youtube.com/watch?v=uu5jH2BgPBM).
