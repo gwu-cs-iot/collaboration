@@ -24,3 +24,5 @@ Please add more! PRs accepted.
 - [Application development environment](https://www.youtube.com/watch?v=uE0bP-AS_sQ) for IoT devices.
 - A [gameboy screen/sterio](https://youtu.be/FsqfhFsk2PQ?t=248)? Why not!
 - [Remote control human orchestra?](https://www.youtube.com/watch?v=Dph-bkJL_wM) Sure, why not! Flip CPS around and use [human as actuator](https://www.youtube.com/watch?v=uu5jH2BgPBM).
+- 3d interactive display. Oh yeah, made of [6000 lightbulbs!](https://www.youtube.com/watch?v=_gW9zwK8Ydk&list=RDuu5jH2BgPBM&index=5).
+- A number of [art](https://www.youtube.com/watch?v=0F4V_-shzlk), [interaction](https://www.youtube.com/watch?v=Ev6r7AAg4V4), [creative uses of actuators](https://www.youtube.com/watch?v=y4QQzzU2diM), [augmentation](https://www.youtube.com/watch?v=_VFsdPAoI1g&list=PL6uqON-thyrbkbUEGMRWMLLop9qeMashH), and other videos at [creators](https://www.youtube.com/user/TheCreatorsProject/videos).
