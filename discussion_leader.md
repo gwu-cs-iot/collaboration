@@ -1,16 +1,15 @@
 # How to Lead a Paper's Discussion
 
-
-
 ## Timeline
 
 *Two weeks* before the day you must lead the paper's discussion, you must
 
 - Issue a PR that adds your paper (as a pdf) into the `papers/` directory, and links the paper name on the syllabus to that pdf.
+	Ensure that you adhere to [naming scheme](https://github.com/gwu-iot/collaboration/blob/master/papers/README.md) for the `pdf`.
     You must test that the link works and properly resolves to the pdf.
 - Add a `github` Issue using the `paper discussion` tag titled "Paper discussion: XXX" where you replace "XXX" with the paper's title.
     The body of the issue should simply include "Please add your feedback below.".
-    
+
 In the week *before* the week you lead the paper's discussion, and 24 hours *before* office hours, you must send Gabe an email, titled "IoT S&S: Presentation Draft" including:
 
 - A link to your presentation created using google slides.
@@ -32,6 +31,7 @@ We'll discuss them in class.
 ## Presenting the Paper
 
 Doing a good presentation is quite difficult.
+I expect you to put time into doing it well, and to improve over time.
 
 ## Presentation Expectations
 
@@ -45,7 +45,7 @@ As a rough guide, this 20 minutes should be decomposed as:
 - 2 minutes discussing assumptions about the problem domain and solution.
 - 4 minutes discussing a high-level design of the system and how it solves the problem.
 - 5 minutes discussing evaluation.
-- 1 minute 
+- 1 minute
 
 Note that the presentation will likely go longer than this as everyone in the class should ask clarification questions if there are confusions.
 
