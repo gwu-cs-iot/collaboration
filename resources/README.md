@@ -1,4 +1,5 @@
 C development for embedded systems:
+- [General rules and guidelines](https://github.com/gwu-iot/collaboration/blob/master/resources/c.md) for writing C code.
 - The [c build process](https://blog.feabhas.com/2012/06/the-c-build-process/)
 - [Linker scripts](http://software-dl.ti.com/ccs/esd/documents/sdto_cgt_Linker-Command-File-Primer.html) and how to place programs explicitly in memory.
 - [All things](https://github.com/nhivp/Awesome-Embedded) low-level and embedded.
@@ -11,3 +12,9 @@ How to interact with physical systems:
 - Integrating multiple sensor's information to estimate system state using [sensor fusion](https://www.youtube.com/watch?v=6qV3YjFppuc)
 
 `git` and `github` [information](https://github.com/gwu-iot/collaboration/blob/master/resources/github.md).
+
+On programming as a [craft](https://www2.seas.gwu.edu/~gparmer/posts/2016-03-07-code-craftsmanship.html):
+
+- [debugging](https://github.com/gwu-iot/collaboration/blob/master/resources/debugging.md),
+- [testing](https://github.com/gwu-iot/collaboration/blob/master/resources/testing.md), and
+- [style](https://github.com/gwu-iot/collaboration/blob/master/resources/style.md)
