@@ -10,4 +10,4 @@ How to interact with physical systems:
 - Removing errors in state estimation using [Kalman filters](https://www.youtube.com/watch?v=mwn8xhgNpFY&list=PLn8PRpmsu08pzi6EMiYnR-076Mh-q3tWr).
 - Integrating multiple sensor's information to estimate system state using [sensor fusion](https://www.youtube.com/watch?v=6qV3YjFppuc)
 
-`git` and `github` [information](https://github.com/gwu-iot/collaboration/blob/master/github.md).
+`git` and `github` [information](https://github.com/gwu-iot/collaboration/blob/master/resources/github.md).
