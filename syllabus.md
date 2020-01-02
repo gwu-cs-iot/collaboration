@@ -1,8 +1,15 @@
 # Spring '20: *Internet of Things - systems and security*
 
+This class effectively has two class structures.
+
+1. Instruction - We'll discuss the major concepts relevant for the IoT that will give you a broad background, but not much depth.
+    The goal is to make you *aware* of the core concepts and solutions so that you'll know where to look when you have a problem.
+1. Research discussions - Students will present research papers, and we will discuss them.
+    The goal is to learn about cutting-edge research, and to practice both digesting it and presenting it.
+
 ## Syllabus
 
-| Day | Description | Due |
+| Day..... | Description | Due |
 | --- | --- | --- |
 | T 1.14 | IoT and class background | - |
 | R 1.16 | Real-time and embedded systems | Fill out class [survey](https://forms.gle/xkXFdTXT64gF7TzcA) |
