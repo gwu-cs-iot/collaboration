@@ -9,7 +9,7 @@ If you convince me, and enough people agree with the change, I'll accept the PR.
 
 Directory:
 
-- The course's [syllabus](https://github.com/gwu-iot/collaboration/blob/master/syllabus.md).
+- The course's [syllabus](https://github.com/gwu-iot/collaboration/blob/master/syllabus.md), and [grading rubric](https://github.com/gwu-iot/collaboration/blob/master/grading.md).
 - See the requirements and guidelines for [leading a paper discussion](https://github.com/gwu-iot/collaboration/blob/master/discussion_leader.md), and [reviewing/critiquing a paper](https://github.com/gwu-iot/collaboration/blob/master/paper_review.md).
 - Course [resources](https://github.com/gwu-iot/collaboration/blob/master/resources/README.md).
 - See [inspirational](https://github.com/gwu-iot/collaboration/blob/master/resources/inspiration.md) embedded and IoT projects.
