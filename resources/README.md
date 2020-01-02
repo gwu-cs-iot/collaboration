@@ -18,3 +18,5 @@ On programming as a [craft](https://www2.seas.gwu.edu/~gparmer/posts/2016-03-07-
 - [debugging](https://github.com/gwu-iot/collaboration/blob/master/resources/debugging.md),
 - [testing](https://github.com/gwu-iot/collaboration/blob/master/resources/testing.md), and
 - [style](https://github.com/gwu-iot/collaboration/blob/master/resources/style.md)
+- Properly using an [editor](https://github.com/gparmer/gwu_os_editors).
+    Pull requests to this material are welcome and encouraged directly to that repository.
