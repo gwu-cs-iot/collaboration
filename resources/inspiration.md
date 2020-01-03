@@ -28,3 +28,4 @@ Please add more! PRs accepted.
 - A number of [art](https://www.youtube.com/watch?v=0F4V_-shzlk), [interaction](https://www.youtube.com/watch?v=Ev6r7AAg4V4), [creative uses of actuators](https://www.youtube.com/watch?v=y4QQzzU2diM), [augmentation](https://www.youtube.com/watch?v=_VFsdPAoI1g&list=PL6uqON-thyrbkbUEGMRWMLLop9qeMashH), and other videos at [creators](https://www.youtube.com/user/TheCreatorsProject/videos).
 - Are there better ways to control traffic lights other than (illegal) [MiRTs](https://hackaday.io/project/162434-dont-call-the-cops) [(2)](http://www.themirt.com/how-it-works.php)? Related: how the doppler effect and other techniques are used in police [radar](https://youtu.be/vQtLms02PFM?t=647).
 - What could you do with a [cheap infrared camera](https://youtu.be/u4DSzp77xwk?t=162)?
+- Tangible [wave and beat shaping](https://youtu.be/Mgy1S8qymx0?list=TLPQMDIwMTIwMjDft11QejRomA).
