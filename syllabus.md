@@ -22,7 +22,7 @@ This class effectively has two class structures.
 | T 2.11 | Paper Presentation | |
 | R 2.13 | Paper Presentation | |
 | T 2.18 | Paper Presentation | |
-| R 2.20 | Project peer feedback |  |
+| R 2.20 | Project peer feedback | Project Checkpoint I |
 | T 2.25 | Authentication, communication, and distribution | |
 | R 2.27 | Paper Presentation | |
 | T 3.3 | Paper Presentation | |
@@ -31,7 +31,7 @@ This class effectively has two class structures.
 | R 3.12 | Paper Presentation | |
 | T 3.17 | Spring hackathon | no class |
 | R 3.19 | Spring hackathon | no class |
-| T 3.24 | Project peer feedback | |
+| T 3.24 | Project peer feedback | Project Checkpoint II |
 | R 3.26 | Edge computing and software updates | |
 | T 3.31 | Paper Presentation | |
 | R 4.2 | Paper Presentation | |
