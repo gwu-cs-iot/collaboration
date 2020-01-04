@@ -3,9 +3,14 @@ C development for embedded systems:
 - The [c build process](https://blog.feabhas.com/2012/06/the-c-build-process/)
 - [Linker scripts](http://software-dl.ti.com/ccs/esd/documents/sdto_cgt_Linker-Command-File-Primer.html) and how to place programs explicitly in memory.
 - [All things](https://github.com/nhivp/Awesome-Embedded) low-level and embedded.
-- Physical [communication protocols](https://youtu.be/IyGwvGzrqp8?list=TLPQMDQwMTIwMjC3tJDv5Sv15Q&t=93) on embedded systems.
 - C development: [visibility and includes](https://www.youtube.com/watch?v=P8g4B9c0i8A&t=490s), [generic data-structures](https://www.youtube.com/watch?v=AUYYN3mqSGU&t=3s), and [polymorphism](https://www.youtube.com/watch?v=bZO0A1tj2MI)
 - Makefile [tutorial](https://www.youtube.com/watch?v=DtGrdB8wQ_8)
+
+Sensors and actuators:
+- [Stepper motors](https://youtu.be/bkqoKWP4Oy4?list=TLPQMDQwMTIwMjCFXJiZsHM4tw) for fine-grained motor control.
+- [PWM](https://youtu.be/GQLED3gmONg?list=TLPQMDQwMTIwMjCFXJiZsHM4tw) control of actuators.
+- Physical [communication protocols](https://youtu.be/IyGwvGzrqp8?list=TLPQMDQwMTIwMjC3tJDv5Sv15Q&t=93) on embedded systems.
+
 
 How to interact with physical systems:
 - Understanding control of physical systems using a [PID](https://www.youtube.com/watch?v=wkfEZmsQqiA&list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y) controller.
