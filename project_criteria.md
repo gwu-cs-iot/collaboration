@@ -59,6 +59,7 @@ The deadlines for each will be posted on Piazza.
     1. How to build and use your project.
         This will include the necessary hardware and software, and how to use it properly.
         For hardware setup, you should include pictures to illustrate the setup.
+    
     Add a final `report.md` with three sections.
     1. An overview of the design of the system.
         This does *not* need to be very detailed, but should include enough detail for someone to understand what are the main technical aspects of the project, and how they are designed.
