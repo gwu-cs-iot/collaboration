@@ -34,6 +34,35 @@ The deadlines for each will be posted on Piazza.
     Your aim is to convince me that your project meets the educational objectives for the class, and the project requirements above.
 1. *Project work distribution & timeline* - you must provide
     - a breakdown of the different components of the project
-    - a timeline on when these will be completed
+    - a timeline on when these will be completed, focusing particularly on what will be done by checkpoint I and checkpoint II.
     - an enumeration and description of the interfaces between the components
     - an assignment of components to group members
+    All of this should be in a `plan.md` file in your project's repository, and should have a corresponding set of cards in the [github project](https://github.com/features/project-management/) board for your project.
+1. *Checkpoint I* - the first "deliverable" for your project.
+    This focuses on two aspects:
+    
+    1. A brief document, `checkpoint1.md` that describes any *deviations* from the work distribution and timeline plan.
+        This should include two main sections: 1. "What changes were necessary in the project", 2. "Where we fell behind", and 3. "What we'll do to catch up".
+        If it is no longer feasible to follow the original plan, detail the changes in the first.
+        If you feel behind, then detail *who* feel behind in the second, and what you'll do to catch up in the third.
+    1. A 5 minute demo, and a plan for concisely (5 minutes) presenting the main technical aspects of the system to your peers.
+        In class, we'll do peer feedback in which you'll present your demo and describe the technical aspects of the project to another group.
+        When other groups present to you, your job is to provide them high-level feedback on the direction of the project, focusing on potential ideas that could help make their project better.
+        These can be technical ideas, or "cool" ideas about how to use the technical parts of the project in novel ways.
+1. *Checkpoint II* - Same as *Checkpoint I*, but with the output in `checkpoint2.md`.
+1. *Demo & Presentation* - Each group will have 12 minutes to present a brief demo and give a technical overview of their project.
+1. *Demo day* - Demo your project to a broad audience!
+    Invite your friends.
+1. *Final commit and report* - Add a `README.md` with two sections:
+    1. How your project is organized.
+        What each subdirectory holds.
+    1. How to build and use your project.
+        This will include the necessary hardware and software, and how to use it properly.
+        For hardware setup, you should include pictures to illustrate the setup.
+    Add a final `report.md` with three sections.
+    1. An overview of the design of the system.
+        This does *not* need to be very detailed, but should include enough detail for someone to understand what are the main technical aspects of the project, and how they are designed.
+    1. The same as your checkpoint documents, include a section that includes a discussion about "What changes were necessary in the project", and "What you were not able to accomplish".
+        The former should be well justified.
+    1. Who did what.
+        This should summarize what each of the members on your team accomplished, and **must** reference the pull requests made by those group members.
