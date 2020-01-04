@@ -7,8 +7,9 @@ C development for embedded systems:
 - Makefile [tutorial](https://www.youtube.com/watch?v=DtGrdB8wQ_8)
 
 Sensors and actuators:
-- [Stepper motors](https://youtu.be/bkqoKWP4Oy4?list=TLPQMDQwMTIwMjCFXJiZsHM4tw) for fine-grained motor control.
+- [Stepper motors](https://youtu.be/bkqoKWP4Oy4?list=TLPQMDQwMTIwMjCFXJiZsHM4tw) for fine-grained motor control (see also, servo motors).
 - [PWM](https://youtu.be/GQLED3gmONg?list=TLPQMDQwMTIwMjCFXJiZsHM4tw) control of actuators.
+- Quick survey of [different motors](https://www.electronics-tutorials.ws/io/io_7.html) (brushed/brushless DC, servo, stepper).
 - Physical [communication protocols](https://youtu.be/IyGwvGzrqp8?list=TLPQMDQwMTIwMjC3tJDv5Sv15Q&t=93) on embedded systems.
 
 
