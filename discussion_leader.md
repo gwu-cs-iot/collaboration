@@ -35,6 +35,7 @@ I expect you to put time into doing it well, and to improve over time.
 
 ## Presentation Expectations
 
+Your presentation should use the [class template](https://docs.google.com/presentation/d/16hrWPUGSp1Zz9E0J3Oq3_QyQpejXYTHucG4OlOtsI64/edit?usp=sharing) by copying it, and, after you're done, sharing it with Prof. Parmer.
 Each presentation *must* be highly practiced, and should be targetted for *23 minutes*.
 When you send the presentation to Gabe, please make sure that it fits into 23 minutes.
 As a rough guide, this 23 minutes should be decomposed as:
