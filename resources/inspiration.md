@@ -29,3 +29,5 @@ Please add more! PRs accepted.
 - Are there better ways to control traffic lights other than (illegal) [MiRTs](https://hackaday.io/project/162434-dont-call-the-cops) [(2)](http://www.themirt.com/how-it-works.php)? Related: how the doppler effect and other techniques are used in police [radar](https://youtu.be/vQtLms02PFM?t=647).
 - What could you do with a [cheap infrared camera](https://youtu.be/u4DSzp77xwk?t=162)?
 - Tangible [wave and beat shaping](https://youtu.be/Mgy1S8qymx0?list=TLPQMDIwMTIwMjDft11QejRomA).
+- Simple [door alarm](https://youtu.be/xXs8Cxw4e2k?list=TLPQMDQwMTIwMjCFXJiZsHM4tw). Why not add face or bluetooth (for a specific smart phone) detection?
+- Shooting a water cannon at [cats](https://youtu.be/uIbkLjjlMV8?list=TLPQMDQwMTIwMjCFXJiZsHM4tw)? Why not?
