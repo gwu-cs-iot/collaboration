@@ -38,6 +38,7 @@ Arwa Alrawais, Abdulrahman Alhothaily, Chunqiang Hu, and Xiuzhen Cheng
 - *Chaos: a System for Criticality-Aware, Multi-core Coordination* by Phani Kishore Gadepalli, Gregor Peach, Gabriel Parmer, Joseph Espy, Zachary Day
 - *Predictable Virtualization on Memory Protection Unit-based Microcontrollers* by Runyu Pan, Gregor Peach, Yuxin Ren, Gabriel Parmer
 - *From Energy Audits to Monitoring Megawatt Loads:A Flexible and Deployable Power Metering System* by Bradford Campbell, Ye-sheng Kuo, and Prabal Dutta
+- *The Signpost Platform for City-Scale Sensing* by Joshua Adkins, Bradford Campbell, Branden Ghena, Neal Jackson, Pat Pannuto, Samuel Rohrer, and Prabal Dutta
 
 ## Distribution:
 
