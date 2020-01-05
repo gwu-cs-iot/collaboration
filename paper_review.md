@@ -115,6 +115,16 @@ You should be *terse* and precise.
 You should not provide long reviews.
 The goal of a review is *not* to judge the paper, but instead to raise a set of questions and concerns about the paper.
 
+If the paper is a *survey* which summarizes an area of research including many separate papers, the following structure might be more appropriate:
+
+- Two to three summary of the problem being solved.
+- Two or three sentence summary of the areas that are most important to the survey.
+- Three questions about the survey.
+- Two critiques about the survey.
+    Are there areas it ignores?
+    Has the world changed since the survey was written, and it should be augmented with more modern issues?
+    Are the assumptions of the problem domain less than ideal?
+
 ## In-class discussion
 
 The in-class discussion of each paper will be led by a single student.
