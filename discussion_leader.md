@@ -35,9 +35,9 @@ I expect you to put time into doing it well, and to improve over time.
 
 ## Presentation Expectations
 
-Each presentation *must* be highly practiced, and should be targetted for *20 minutes*.
-When you send the presentation to Gabe, please make sure that it fits into 20 minutes.
-As a rough guide, this 20 minutes should be decomposed as:
+Each presentation *must* be highly practiced, and should be targetted for *23 minutes*.
+When you send the presentation to Gabe, please make sure that it fits into 23 minutes.
+As a rough guide, this 23 minutes should be decomposed as:
 
 - 7 minutes on background, and the problem domain.
     What is the problem being solved, and why does it matter?
@@ -45,8 +45,22 @@ As a rough guide, this 20 minutes should be decomposed as:
 - 2 minutes discussing assumptions about the problem domain and solution.
 - 4 minutes discussing a high-level design of the system and how it solves the problem.
 - 5 minutes discussing evaluation.
-- 1 minute
+- 3 minutes critiquing the paper, discussing assumptions, and generally having a critical eye.
+- 1 minute conluding the paper, and summarizing its main contributions.
 
 Note that the presentation will likely go longer than this as everyone in the class should ask clarification questions if there are confusions.
 
 After this presentation, the leader should put a representative set of student questions on the screen, and we'll use them to guide another 20 minutes of discussion.
+
+Note that some papers are better described as *surveys* that discuss a set of research in a domain, rather than discuss a specific contribution.
+For these papers, the following guide is more appropriate:
+
+- 7 minutes on background and the problem domain.
+- 1 minute defining the goal of the survey, and what it is exploring.
+- 10 minutes iterating on the surveyed material.
+    Follow the structure of the paper and the methods of defining taxonomies.
+- 2 minutes on critiquing the problem domain, and the survey.
+    What assumptions does all of the work make?
+    What areas are not covered by the survey that are interesting in the problem domain?
+    What open problems remain?
+- 3 minutes summarizing
