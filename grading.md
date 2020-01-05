@@ -2,7 +2,7 @@
 
 | Action | Percent |
 | --- | --- |
-| Project | 45 |
+| Project | 40 |
 | Presentation | 20 |
 | Critiques | 20 |
-| Participation | 15 |
+| Participation | 20 |
