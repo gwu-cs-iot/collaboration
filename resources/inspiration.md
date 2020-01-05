@@ -31,3 +31,5 @@ Please add more! PRs accepted.
 - Tangible [wave and beat shaping](https://youtu.be/Mgy1S8qymx0?list=TLPQMDIwMTIwMjDft11QejRomA).
 - Simple [door alarm](https://youtu.be/xXs8Cxw4e2k?list=TLPQMDQwMTIwMjCFXJiZsHM4tw). Why not add face or bluetooth (for a specific smart phone) detection?
 - Shooting a water cannon at [cats](https://youtu.be/uIbkLjjlMV8?list=TLPQMDQwMTIwMjCFXJiZsHM4tw)? Why not?
+- Pezioelectric sensors are great for getting feedback from the environment.
+    Use them to detect vibrations when [building an electric instrument](https://youtu.be/Zp2LCAv2CYY?list=TLPQMDQwMTIwMjCFXJiZsHM4tw&t=408), fit them into a glove to [play music](https://www.youtube.com/watch?v=oTJh_Kph1mU&list=TLPQMDQwMTIwMjCFXJiZsHM4tw&index=16), or power a small [system](https://youtu.be/tYoGdxDPwL4?list=TLPQMDQwMTIwMjCFXJiZsHM4tw).
