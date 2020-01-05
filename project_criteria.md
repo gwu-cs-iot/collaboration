@@ -34,13 +34,15 @@ The deadlines for each will be posted on Piazza.
     Your aim is to convince me that your project meets the educational objectives for the class, and the project requirements above.
 1. *Project work distribution & timeline* - you must provide
     - a breakdown of the different components of the project
-    - a timeline on when these will be completed, focusing particularly on what will be done by checkpoint I and checkpoint II.
+    - a timeline on when these will be completed, focusing particularly on what will be done by checkpoint I and checkpoint II
     - an enumeration and description of the interfaces between the components
+	- a reference to the principles for [securing the Internet of Things](https://github.com/gwu-iot/collaboration/blob/master/papers/dhs16guidelines.pdf) document spelling out how security will be considered in your project, and an explicit acknowledgment what factors in that document are *not* going to be considered in your project along with the reason why
     - an assignment of components to group members
     All of this should be in a `plan.md` file in your project's repository, and should have a corresponding set of cards in the [github project](https://github.com/features/project-management/) board for your project.
+
 1. *Checkpoint I* - the first "deliverable" for your project.
     This focuses on two aspects:
-    
+
     1. A brief document, `checkpoint1.md` that describes any *deviations* from the work distribution and timeline plan.
         This should include two main sections: 1. "What changes were necessary in the project", 2. "Where we fell behind", and 3. "What we'll do to catch up".
         If it is no longer feasible to follow the original plan, detail the changes in the first.
@@ -59,7 +61,7 @@ The deadlines for each will be posted on Piazza.
     1. How to build and use your project.
         This will include the necessary hardware and software, and how to use it properly.
         For hardware setup, you should include pictures to illustrate the setup.
-    
+
     Add a final `report.md` with three sections.
     1. An overview of the design of the system.
         This does *not* need to be very detailed, but should include enough detail for someone to understand what are the main technical aspects of the project, and how they are designed.
