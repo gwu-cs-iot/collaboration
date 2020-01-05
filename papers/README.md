@@ -26,6 +26,7 @@ Arwa Alrawais, Abdulrahman Alhothaily, Chunqiang Hu, and Xiuzhen Cheng
 - *IoTPOT: Analysing the Rise of IoT Compromises* by Yin Minn Pa Pa, Shogo Suzuki, Katsunari Yoshioka, Tsutomu Matsumoto,Takahiro Kasama,Christian Rossow
 - *Risks of Trusting the Physics of Sensors* by Kevin Fu and Wenyuan Xu
 - *Experimental Security Analysis of a Modern Automobile* by Karl Koscher, Alexei Czeskis, Franziska Roesner, Shwetak Patel, and Tadayoshi Kohno
+- *Don’t Talk Unless I Say So! Securing theInternet of Things With Default-Off Networking* by James Hong, Amit Levy, Laurynas Riliskis, and Philip Levis
 
 ## Systems:
 - *Virtualization on TrustZone-enabled Microcontrollers? Viola!* by Sandro Pinto, Hugo Araujo Daniel Oliviera, Jose Martins, and Adriano Tavares
@@ -36,6 +37,7 @@ Arwa Alrawais, Abdulrahman Alhothaily, Chunqiang Hu, and Xiuzhen Cheng
 - *LogSafe: Secure and Scalable Data Logger for IoT Devices* by Hung Nguyen, et al.
 - *Chaos: a System for Criticality-Aware, Multi-core Coordination* by Phani Kishore Gadepalli, Gregor Peach, Gabriel Parmer, Joseph Espy, Zachary Day
 - *Predictable Virtualization on Memory Protection Unit-based Microcontrollers* by Runyu Pan, Gregor Peach, Yuxin Ren, Gabriel Parmer
+- *From Energy Audits to Monitoring Megawatt Loads:A Flexible and Deployable Power Metering System* by Bradford Campbell, Ye-sheng Kuo, and Prabal Dutta
 
 ## Distribution:
 
