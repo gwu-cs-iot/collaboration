@@ -35,6 +35,8 @@ Arwa Alrawais, Abdulrahman Alhothaily, Chunqiang Hu, and Xiuzhen Cheng
 - *Beetle: Flexible Communication for Bluetooth Low Energy* by Amit Levy, James Hong, Laurynas Riliskis, Philip Levis, Keith Winstein
 - *Real-Time Middleware for Cyber-Physical Event Processing* by Chao Wang, Chris Gill, and Chenyang Lu
 - *LogSafe: Secure and Scalable Data Logger for IoT Devices* by Hung Nguyen, et al.
+- *Chaos: a System for Criticality-Aware, Multi-core Coordination* by Phani Kishore Gadepalli, Gregor Peach, Gabriel Parmer, Joseph Espy, Zachary Day
+- *Predictable Virtualization on Memory Protection Unit-based Microcontrollers* by Runyu Pan, Gregor Peach, Yuxin Ren, Gabriel Parmer
 
 ## Distribution:
 
