@@ -19,7 +19,6 @@ Arwa Alrawais, Abdulrahman Alhothaily, Chunqiang Hu, and Xiuzhen Cheng
 ## Security
 
 - *The Internet of Things Is Wildly Insecure — And Often Unpatchable* by Bruce Schneier, *It's Time for IoT Security's Next Big Step* by Lily Hay Newman, and *Dealing with Infrastructure Disruption: IoT Security* by Kevin Fu
-
 - *A survey of secure middleware for the Internet of Things* by Paul Fremantle, Philip Scott
 - *Trustworthy Medical Device Software* by Kevin Fu
 - *A Large-Scale Analysis of the Security  of Embedded Firmwares* by Andrei Costin, Jonas Zaddach, Aurélien Francillon, and Davide Balzarotti
