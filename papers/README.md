@@ -23,6 +23,9 @@ Arwa Alrawais, Abdulrahman Alhothaily, Chunqiang Hu, and Xiuzhen Cheng
 - *Trustworthy Medical Device Software* by Kevin Fu
 - *A Large-Scale Analysis of the Security  of Embedded Firmwares* by Andrei Costin, Jonas Zaddach, Aurélien Francillon, and Davide Balzarotti
 - *Secure Embedded Systems* by Michael Vai et al.
+- *Preserving Physical Safety Under Cyber Attacks* by F. Abdi, C. Y. Chen, M. Hasan, S. Mohan and M. Caccamo
+- *Securing Real-Time Internet-of-Things* by Chien-Ying Chen, Monowar Hasan, and Sibin Mohan
+- *Special Session: The Future of IoT Security* by Sibin Mohan, Mikael Asplund, Gedare Bloom, Ahmad-Reza Sadeghi, Ahmad Ibrahim, Negin Salajageh, Paul Griffioen, and Bruno Sinopoli
 - *IoTPOT: Analysing the Rise of IoT Compromises* by Yin Minn Pa Pa, Shogo Suzuki, Katsunari Yoshioka, Tsutomu Matsumoto,Takahiro Kasama,Christian Rossow
 - *Risks of Trusting the Physics of Sensors* by Kevin Fu and Wenyuan Xu
 - *Experimental Security Analysis of a Modern Automobile* by Karl Koscher, Alexei Czeskis, Franziska Roesner, Shwetak Patel, and Tadayoshi Kohno
