@@ -4,9 +4,10 @@
 
 *Two weeks* before the day you must lead the paper's discussion, you must
 
-- Issue a PR that adds your paper (as a pdf) into the `papers/` directory, and links the paper name on the syllabus to that pdf.
-	Ensure that you adhere to [naming scheme](https://github.com/gwu-iot/collaboration/blob/master/papers/README.md) for the `pdf`.
-    You must test that the link works and properly resolves to the pdf.
+- Your `.pdf` should be in `papers/`, using a pre-defined [naming scheme](https://github.com/gwu-iot/collaboration/blob/master/papers/README.md).
+    Link that paper from the syllabus, and from the list of papers in that [directory](https://github.com/gwu-iot/collaboration/blob/master/papers/README.md).
+    You must test that both links work and properly resolve to the pdf.
+    Other students will use this link to access the paper.
 - Add a `github` Issue using the `paper discussion` tag titled "Paper discussion: XXX" where you replace "XXX" with the paper's title.
     The body of the issue should simply include "Please add your feedback below.".
 
@@ -35,6 +36,7 @@ I expect you to put time into doing it well, and to improve over time.
 
 ## Presentation Expectations
 
+Your presentation should use the [class template](https://docs.google.com/presentation/d/16hrWPUGSp1Zz9E0J3Oq3_QyQpejXYTHucG4OlOtsI64/edit?usp=sharing) by copying it, and, after you're done, sharing it with Prof. Parmer.
 Each presentation *must* be highly practiced, and should be targetted for *23 minutes*.
 When you send the presentation to Gabe, please make sure that it fits into 23 minutes.
 As a rough guide, this 23 minutes should be decomposed as:

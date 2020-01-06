@@ -5,6 +5,7 @@ C development for embedded systems:
 - [All things](https://github.com/nhivp/Awesome-Embedded) low-level and embedded.
 - C development: [visibility and includes](https://www.youtube.com/watch?v=P8g4B9c0i8A&t=490s), [generic data-structures](https://www.youtube.com/watch?v=AUYYN3mqSGU&t=3s), and [polymorphism](https://www.youtube.com/watch?v=bZO0A1tj2MI)
 - Makefile [tutorial](https://www.youtube.com/watch?v=DtGrdB8wQ_8)
+- Don't imlement your [own spinlock](https://matklad.github.io//2020/01/02/spinlocks-considered-harmful.html) if you can avoid it!
 
 Sensors and actuators:
 - [Stepper motors](https://youtu.be/bkqoKWP4Oy4?list=TLPQMDQwMTIwMjCFXJiZsHM4tw) for fine-grained motor control (see also, servo motors).
