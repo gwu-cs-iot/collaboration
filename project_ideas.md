@@ -18,6 +18,21 @@ Central processing on these feeds of data can determine where the sound is comin
 *Focus*:
 - Real-time sound processing and interaction
 
+## Edge-driven time synchronization
+
+[NTP](https://en.wikipedia.org/wiki/Network_Time_Protocol) and related protocols provide relatively fine-grained synchronization in a distributed system.
+It is quite powerful for all IoT devices to have a shared notion of time.
+Their sensor readings how have a shared global meaning (at this millisecond, we're observing this sound), and their actuation can be synchronized (at time *t*, lights should start a sequence of actions).
+To get tighter synchronization, the server code coordinating time synchronization can be placed on the edge.
+
+*Technology*:
+- Global time synchronization
+- Edge computing
+- sensor/actuator interaction with time
+
+*Focus*:
+- time synchronization protocols and the edge
+
 ## Environment sensing for efficient autonomous driving
 
 [F1/10](http://f1tenth.org/) vehicles are autonomous and make decisions based on sensors on the vehicle.
