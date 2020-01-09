@@ -4,6 +4,17 @@ This is an initial collection of project ideas, mainly to boot-strap your creati
 Please add your own ideas here and contribute to the collective brainstorming!
 For each of these projects, ask yourself "what are the sensors" and "what are the actuators", and brainstorm other project ideas from those capabilities.
 
+## Human/pollution interaction
+
+How can we visually depict pollution levels around the globe in an interactive way?
+There are many ways to do this.
+One might be to provide an array of lights that map pollution levels into different light configurations, and allowing humans proximate to the lights to interactively (perhaps with bluetooth and their cellphones) select the GPS location to use for the visualization.
+
+*Technology*:
+- visual/auditory actuator programming (lights, sounds, etc...)
+- bluetooth programming
+- web APIs for getting pollution levels around the globe
+
 ## Sound source localization + targetted noise canceling
 
 Multiple microphones spread around a room can perform localization and audio processing.
