@@ -12,6 +12,7 @@ Sensors and actuators:
 - [PWM](https://youtu.be/GQLED3gmONg?list=TLPQMDQwMTIwMjCFXJiZsHM4tw) control of actuators.
 - Quick survey of [different motors](https://www.electronics-tutorials.ws/io/io_7.html) (brushed/brushless DC, servo, stepper).
 - Physical [communication protocols](https://youtu.be/IyGwvGzrqp8?list=TLPQMDQwMTIwMjC3tJDv5Sv15Q&t=93) on embedded systems.
+- A little bit tangential, but microscopic devices ([MEMS](https://www.youtube.com/watch?v=iPGpoUN29zk)) are integral in our devices, and are quite impressive.
 
 
 How to interact with physical systems:
