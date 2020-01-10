@@ -4,6 +4,17 @@ This is an initial collection of project ideas, mainly to boot-strap your creati
 Please add your own ideas here and contribute to the collective brainstorming!
 For each of these projects, ask yourself "what are the sensors" and "what are the actuators", and brainstorm other project ideas from those capabilities.
 
+## Human/pollution interaction
+
+How can we visually depict pollution levels around the globe in an interactive way?
+There are many ways to do this.
+One might be to provide an array of lights that map pollution levels into different light configurations, and allowing humans proximate to the lights to interactively (perhaps with bluetooth and their cellphones) select the GPS location to use for the visualization.
+
+*Technology*:
+- visual/auditory actuator programming (lights, sounds, etc...)
+- bluetooth programming
+- web APIs for getting pollution levels around the globe
+
 ## Sound source localization + targetted noise canceling
 
 Multiple microphones spread around a room can perform localization and audio processing.
@@ -17,6 +28,21 @@ Central processing on these feeds of data can determine where the sound is comin
 
 *Focus*:
 - Real-time sound processing and interaction
+
+## Edge-driven time synchronization
+
+[NTP](https://en.wikipedia.org/wiki/Network_Time_Protocol) and related protocols provide relatively fine-grained synchronization in a distributed system.
+It is quite powerful for all IoT devices to have a shared notion of time.
+Their sensor readings how have a shared global meaning (at this millisecond, we're observing this sound), and their actuation can be synchronized (at time *t*, lights should start a sequence of actions).
+To get tighter synchronization, the server code coordinating time synchronization can be placed on the edge.
+
+*Technology*:
+- Global time synchronization
+- Edge computing
+- sensor/actuator interaction with time
+
+*Focus*:
+- time synchronization protocols and the edge
 
 ## Environment sensing for efficient autonomous driving
 

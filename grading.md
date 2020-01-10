@@ -43,6 +43,12 @@ The paper critiques are based on
 
 This is a combination of your *necessary* participation in class (if even just to ask questions), your participation on Piazza, and your PRs to this repo.
 
-For example, I'm accepting PRs to add a `resources/local_copies/` directory with a `.pdf` version of each of the external links in the resources and inspiration pages!
-If the original source material is taken offline, I want the local copies to fall back on.
-Make sure to update the original links to the external material to include an additional small link (for example, a link like [chaos](https://www2.seas.gwu.edu/~gparmer/publications/rtas19chaos.pdf) should be updated to look like this [chaos](https://www2.seas.gwu.edu/~gparmer/publications/rtas19chaos.pdf)[*](https://github.com/gwu-iot/collaboration/blob/master/papers/rtas19chaos.pdf)) to the local contents.
+Some ideas for participation *beyond* the obvious class/forum interactions:
+
+- I'm accepting PRs to add a `resources/local_copies/` directory with a `.pdf` version of each of the external links in the resources and inspiration pages!
+    If the original source material is taken offline, I want the local copies to fall back on.
+    Make sure to update the original links to the external material to include an additional small link (for example, a link like [chaos](https://www2.seas.gwu.edu/~gparmer/publications/rtas19chaos.pdf) should be updated to look like this [chaos](https://www2.seas.gwu.edu/~gparmer/publications/rtas19chaos.pdf)[*](https://github.com/gwu-iot/collaboration/blob/master/papers/rtas19chaos.pdf)) to the local contents.
+- Add relevant and useful resources to the `resources/` directory.
+    Any external links should be accompanied by a local copy (see previous bullet).
+- Comment on other people's PRs for the class and provide useful insight.
+- Common on paper issues, and start a discussion *before* we discuss the paper.
