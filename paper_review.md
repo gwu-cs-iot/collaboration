@@ -11,7 +11,7 @@ The paper interpretation and discussion will be broken down into three phases:
 1. Providing your review online.
 1. In-class discussion and analysis.
 
-Please see [this document]() from Keshav for more information.
+Please see [this document](https://github.com/gwu-iot/collaboration/blob/master/resources/local_copy/how_to_read_a_paper.pdf) from Keshav for more information.
 
 ### Where to provide your review for Phase 2
 
@@ -78,6 +78,8 @@ However, by the end of the paper reading process, you'll need to  *understand* t
 
 ### Phase 2: Understand
 
+We will also call this a *comprehension review*.
+
 Skimming let you know *what* the authors have done; now read the paper to understand *how*.
 In doing so, you'll still skip implementation details, proofs, and other details that are too "in the weeds".
 
@@ -91,6 +93,7 @@ By the end of this phase, you should clearly understand the problem and the prop
 
 ### Phase 3: Critique
 
+We will also call this a *critical review*.
 The goals of reading a paper:
 
 - Learn about new tools/problems/algorithms
@@ -106,12 +109,22 @@ Third phase: judge the paper’s details
 
 ## Paper review
 
-Your paper review must include:
+Each week, you must Phase 3 review one paper.
+In the other day of the week, you must Phase 2 review another paper.
+For example, if on a Thursday, you provide a Phase 3 review for one of that day's papers, then on Tuesday, you have to provide a Phase 2 review.
+Note that only a restricted number of students can review a given paper.
+This is represented as the space available in the spreadsheet to track who is doing what type of review.
+These are allocated first-come, first-serve.
+
+Your paper review (for either Phase) must include:
 
 - A two to three sentence summary of the problem being solved.
 - A two to three sentence summary of the main contributions.
 - Three questions about the paper. These questions might be about (but aren't limited to) ideas or concepts that you don't understand, design or implementation decisions that don't make sense to you, and questions about the problem domain.
-- Two critiques or critical comments about the paper, its assumptions, the system's design, etc...
+
+A Phase 3 *critical review* must also include:
+
+- Three critiques or critical comments about the paper, its assumptions, the system's design, etc...
 
 You should be *terse* and precise.
 You should not provide long reviews.

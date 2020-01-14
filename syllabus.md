@@ -11,17 +11,18 @@ This class effectively has two class structures.
 
 | Day..... | Description | Due |
 | --- | --- | --- |
-| T 1.14 | IoT and class background | read [this](https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/growing-opportunities-in-the-internet-of-things) and [this](https://www.scientificamerican.com/article/the-bandwidth-bottleneck-that-is-throttling-the-internet/) after class |
-| R 1.16 | Embedded systems | Fill out class [survey](https://forms.gle/xkXFdTXT64gF7TzcA) |
+| T 1.14 | IoT and class background | read [this](https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/growing-opportunities-in-the-internet-of-things), [this](https://www.scientificamerican.com/article/the-bandwidth-bottleneck-that-is-throttling-the-internet/), and optionally watch [this](https://www.youtube.com/watch?v=4QTAtFaIiyc) after class |
+| R 1.16 | Embedded systems | Fill out class [survey](https://forms.gle/xkXFdTXT64gF7TzcA); brainstorm **three** IoT project ideas |
 | T 1.21 | Cloud IoT services | PR to add at least one (non-redundant) link to [project inspiration](https://github.com/gwu-iot/collaboration/blob/master/resources/inspiration.md), and make sure to add a proper description |
 | R 1.22 | Guest lecture: Human/Robot Interactions w/ Prof. Park |  |
 | T 1.28 | Programming embedded systems | |
 | R 1.30 | Real-time systems | |
-| T 2.4 | Paper discussion leader: Gabe Parmer *On Enabling Technologies for the Internet of Important Things* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/cps18enabling_tech.pdf)) | Everyone should review |
-| R 2.6 | Paper Presentation | |
-| T 2.11 | Paper Presentation | |
-| R 2.13 | Paper Presentation | |
-| T 2.18 | Paper Presentation | |
+| T 2.4 | Paper discussion leader: Gabe Parmer *On Enabling Technologies for the Internet of Important Things* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/cps18enabling_tech.pdf)) | Everyone should critically review |
+| R 2.6 | - Discussion leader: ??? *A Survey on Internet of Things: Architecture, Enabling Technologies, Security and Privacy, and Applications*
+- Discussion leader: ??? *Fog Computing for the Internet of Things: Security and Privacy Issues* | Paper reviews |
+| T 2.11 | Paper Presentation | Paper reviews |
+| R 2.13 | Paper Presentation | Paper reviews |
+| T 2.18 | Paper Presentation | Paper reviews |
 | R 2.20 | Project peer feedback | Project Checkpoint I |
 | T 2.25 | Authentication, communication, and distribution | |
 | R 2.27 | Paper Presentation | |
