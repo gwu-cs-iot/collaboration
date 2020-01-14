@@ -18,8 +18,7 @@ This class effectively has two class structures.
 | T 1.28 | Programming embedded systems | |
 | R 1.30 | Real-time systems | |
 | T 2.4 | Paper discussion leader: Gabe Parmer *On Enabling Technologies for the Internet of Important Things* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/cps18enabling_tech.pdf)) | Everyone should critically review |
-| R 2.6 | - Discussion leader: ??? *A Survey on Internet of Things: Architecture, Enabling Technologies, Security and Privacy, and Applications*
-- Discussion leader: ??? *Fog Computing for the Internet of Things: Security and Privacy Issues* | Paper reviews |
+| R 2.6 | Discussion leader: ??? *A Survey on Internet of Things: Architecture, Enabling Technologies, Security and Privacy, and Applications*; Discussion leader: ??? *Fog Computing for the Internet of Things: Security and Privacy Issues* | Paper reviews |
 | T 2.11 | Paper Presentation | Paper reviews |
 | R 2.13 | Paper Presentation | Paper reviews |
 | T 2.18 | Paper Presentation | Paper reviews |
