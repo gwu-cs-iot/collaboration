@@ -40,6 +40,7 @@ Arwa Alrawais, Abdulrahman Alhothaily, Chunqiang Hu, and Xiuzhen Cheng
 - *Multiprogramming a 64 kB ComputerSafely and Efficiently* by Amit Levy, Bradford Campbell, Branden Ghena, Daniel B. Giffin, Pat Pannuto, Prabal Dutta, and Philip Levis
 - *Real-Time Middleware for Cyber-Physical Event Processing* by Chao Wang, Chris Gill, and Chenyang Lu
 - *LogSafe: Secure and Scalable Data Logger for IoT Devices* by Hung Nguyen, et al.
+- *End-to-End Analysis and Design of a Drone Flight Controller* by Zhuoqun Cheng, Richard West, and Craig Einstein
 
 ## Distribution and Programming Models:
 
