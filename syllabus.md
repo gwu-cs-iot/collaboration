@@ -11,13 +11,13 @@ This class effectively has two class structures.
 
 | Day..... | Description | Due |
 | --- | --- | --- |
-| T 1.14 | IoT and class background | - |
-| R 1.16 | Real-time and embedded systems | Fill out class [survey](https://forms.gle/xkXFdTXT64gF7TzcA) |
+| T 1.14 | IoT and class background | [read](https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/growing-opportunities-in-the-internet-of-things) after class |
+| R 1.16 | Embedded systems | Fill out class [survey](https://forms.gle/xkXFdTXT64gF7TzcA) |
 | T 1.21 | Cloud IoT services | PR to add at least one (non-redundant) link to [project inspiration](https://github.com/gwu-iot/collaboration/blob/master/resources/inspiration.md), and make sure to add a proper description |
 | R 1.22 | Guest lecture: Human/Robot Interactions w/ Prof. Park |  |
 | T 1.28 | Programming embedded systems | |
-| R 1.30 | Protection in embedded systems | |
-| T 2.4 | Paper Presentation | |
+| R 1.30 | Real-time systems | |
+| T 2.4 | Paper discussion leader: Gabe Parmer *On Enabling Technologies for the Internet of Important Things* [pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/cps18enabling_tech.pdf) | Everyone should review |
 | R 2.6 | Paper Presentation | |
 | T 2.11 | Paper Presentation | |
 | R 2.13 | Paper Presentation | |
