@@ -17,7 +17,7 @@ This class effectively has two class structures.
 | R 1.22 | Guest lecture: Human/Robot Interactions w/ Prof. Park |  |
 | T 1.28 | Programming embedded systems | |
 | R 1.30 | Real-time systems | |
-| T 2.4 | Paper discussion leader: Gabe Parmer *On Enabling Technologies for the Internet of Important Things* [pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/cps18enabling_tech.pdf) | Everyone should review |
+| T 2.4 | Paper discussion leader: Gabe Parmer *On Enabling Technologies for the Internet of Important Things* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/cps18enabling_tech.pdf)) | Everyone should review |
 | R 2.6 | Paper Presentation | |
 | T 2.11 | Paper Presentation | |
 | R 2.13 | Paper Presentation | |
