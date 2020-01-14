@@ -11,7 +11,7 @@ This class effectively has two class structures.
 
 | Day..... | Description | Due |
 | --- | --- | --- |
-| T 1.14 | IoT and class background ([presentation](https://github.com/gwu-iot/collaboration/blob/master/resources/local_copies/01_intro.pdf)) | read [this](https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/growing-opportunities-in-the-internet-of-things), [this](https://www.scientificamerican.com/article/the-bandwidth-bottleneck-that-is-throttling-the-internet/), and optionally watch [this](https://www.youtube.com/watch?v=4QTAtFaIiyc) after class |
+| T 1.14 | IoT and class background ([presentation](https://github.com/gwu-iot/collaboration/blob/master/resources/local_copy/01_intro.pdf)) | read [this](https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/growing-opportunities-in-the-internet-of-things), [this](https://www.scientificamerican.com/article/the-bandwidth-bottleneck-that-is-throttling-the-internet/), and optionally watch [this](https://www.youtube.com/watch?v=4QTAtFaIiyc) after class |
 | R 1.16 | Embedded systems | Fill out class [survey](https://forms.gle/xkXFdTXT64gF7TzcA); brainstorm **three** IoT project ideas |
 | T 1.21 | Cloud IoT services | PR to add at least one (non-redundant) link to [project inspiration](https://github.com/gwu-iot/collaboration/blob/master/resources/inspiration.md), and make sure to add a proper description |
 | R 1.22 | Guest lecture: Human/Robot Interactions w/ Prof. Park |  |
