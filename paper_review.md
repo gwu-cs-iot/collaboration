@@ -11,6 +11,8 @@ The paper interpretation and discussion will be broken down into three phases:
 1. Providing your review online.
 1. In-class discussion and analysis.
 
+Please see [this document]() from Keshav for more information.
+
 ### Where to provide your review for Phase 2
 
 The student assigned with leading the paper's presentation and discussion will create an "Issue" with the `paper discussion` tag.
@@ -19,7 +21,7 @@ If the student leading the paper's discussion has not yet posted the issue, you 
 
 ### Timeline
 
-You must provide your review at least *two days* before the paper's discussion. 
+You must provide your review at least *two days* before the paper's discussion.
 For example, if a paper is going to be discussed on Thursday, you must provide your review by midnight on Tuesday.
 
 ## Reading a Paper
@@ -47,18 +49,18 @@ The main goal of *the skim* is to
 
 The skim takes about 10-15 minutes and includes:
 
-1. Read the abstract and introduction 
-    - Highlight each contribution they claim 
-2. Look at the title of each section/subsection 
-    - Guess what it will be about, but don’t read it carefully 
-3. Examine the figures and tables 
-    - Understand what metrics they will evaluate 
-4. Read the conclusion and any parts that stand out 
+1. Read the abstract and introduction
+    - Highlight each contribution they claim
+2. Look at the title of each section/subsection
+    - Guess what it will be about, but don’t read it carefully
+3. Examine the figures and tables
+    - Understand what metrics they will evaluate
+4. Read the conclusion and any parts that stand out
 
-You now know: 
+You now know:
 
-- Paper type: theoretical, modeling, implementation, measurement 
-- The main goals of the paper 
+- Paper type: theoretical, modeling, implementation, measurement
+- The main goals of the paper
 - What evaluation the authors think is important
 
 This is hard, and you will (quickly) reach a point where you don't know or understand something.
@@ -79,28 +81,28 @@ However, by the end of the paper reading process, you'll need to  *understand* t
 Skimming let you know *what* the authors have done; now read the paper to understand *how*.
 In doing so, you'll still skip implementation details, proofs, and other details that are too "in the weeds".
 
-Make notes as you read 
+Make notes as you read
 
-- Summarize main points 
-- List questions you have 
-- Circle references that you need to look at for background 
+- Summarize main points
+- List questions you have
+- Circle references that you need to look at for background
 
 By the end of this phase, you should clearly understand the problem and the proposed solutions.
 
 ### Phase 3: Critique
 
-The goals of reading a paper: 
+The goals of reading a paper:
 
-- Learn about new tools/problems/algorithms 
-- Critique the paper’s science 
-- Not it’s grammar nor figure colors, unless you are a reviewer 
+- Learn about new tools/problems/algorithms
+- Critique the paper’s science
+- Not it’s grammar nor figure colors, unless you are a reviewer
 
-Third phase: judge the paper’s details 
+Third phase: judge the paper’s details
 
-- Skip the background that you have already read 
-- Analyze the assumptions being made 
-- Consider how you would solve the problems and compare 
-- Think about what is missing (evaluation, assumptions, proofs...) 
+- Skip the background that you have already read
+- Analyze the assumptions being made
+- Consider how you would solve the problems and compare
+- Think about what is missing (evaluation, assumptions, proofs...)
 
 ## Paper review
 
