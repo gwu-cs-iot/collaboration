@@ -32,7 +32,7 @@ This class effectively has two class structures.
 | T 3.17 | Spring hackathon | no class |
 | R 3.19 | Spring hackathon | no class |
 | T 3.24 | Project peer feedback | Project Checkpoint II |
-| R 3.26 | Discussion leader: ??? *Experimental Security Analysis of a Modern Automobile* ; Discussion leader: ??? *Risks of Trusting the Physics of Sensors* | |
+| R 3.26 | Discussion leader: ??? *Experimental Security Analysis of a Modern Automobile* ; Discussion leader: ??? *Risks of Trusting the Physics of Sensors* | Paper reviews |
 | T 3.31 | Discussion leader: ??? *A Component Architecture for the Internet of Things* ; Discussion leader: ??? *The Swarm at the Edge of the Cloud* | Paper reviews |
 | R 4.2 | Discussion leader: ??? *A Toolkit for Construction of Authorization Service Infrastructure for the Internet of Things* ; Discussion leader: ??? *Decision-driven Execution- A Distributed Resource Management Paradigm for the Age of IoT* | Paper reviews |
 | T 4.7 | Discussion leader: ??? *FRAME: Fault Tolerant and Real-Time Messagingfor Edge Computing* ; Discussion leader: ??? *End-to-End Analysis and Design of a Drone Flight Controller* | Paper reviews |
