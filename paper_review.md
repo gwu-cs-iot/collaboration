@@ -5,15 +5,13 @@ IoT is a burdgening field, and understanding the cutting edge is necessary and l
 
 ## The paper discussion process
 
-The paper interpretation and discussion will be broken down into three phases:
+The paper interpretation and discussion will be broken down into three components:
 
 1. Reading the paper yourself.
 1. Providing your review online.
 1. In-class discussion and analysis.
 
-Please see [this document](https://github.com/gwu-iot/collaboration/blob/master/resources/local_copy/how_to_read_a_paper.pdf) from Keshav for more information.
-
-### Where to provide your review for Phase 2
+### Where to provide your review for the second component
 
 The student assigned with leading the paper's presentation and discussion will create an "Issue" with the `paper discussion` tag.
 You must provide your paper review as a reply to that issue.
@@ -37,7 +35,8 @@ They let you learn about the problems that others find interesting and important
 They provide background about the problem domain, and existing approaches to existing solutions (often spread across the Introduction and Related Work sections).
 They provide details about the design and implementation of the system which may teach you about new infrastructures, new tools, and new techniques that you didn't previously know existed.
 
-One way to read a paper is to approach it in three Phases:
+One way to read a paper is to approach it in three Phases.
+Please see [this document](https://github.com/gwu-iot/collaboration/blob/master/resources/local_copy/how_to_read_a_paper.pdf) from Keshav for more information.
 
 ### Phase 1: The Skim
 
@@ -132,7 +131,7 @@ The goal of a review is *not* to judge the paper, but instead to raise a set of 
 
 If the paper is a *survey* which summarizes an area of research including many separate papers, the following structure might be more appropriate:
 
-- Two to three summary of the problem being solved.
+- Two to three sentence summary of the problem being solved.
 - Two or three sentence summary of the areas that are most important to the survey.
 - Three questions about the survey.
 - Two critiques about the survey.
