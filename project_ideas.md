@@ -15,6 +15,9 @@ One might be to provide an array of lights that map pollution levels into differ
 - bluetooth programming
 - web APIs for getting pollution levels around the globe
 
+*Focus*:
+- Web APIs and actuator (e.g. light) programming
+
 ## Sound source localization + targetted noise canceling
 
 Multiple microphones spread around a room can perform localization and audio processing.
