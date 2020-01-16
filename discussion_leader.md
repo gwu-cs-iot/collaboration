@@ -1,5 +1,7 @@
 # How to Lead a Paper's Discussion
 
+You can sign up to be a discussion leader for a paper using the [form](https://docs.google.com/spreadsheets/d/1v_IVhO5MSM870ayeUy8Ooz0nfI-F0S5-iKOlyK6hBcM/edit?usp=sharing).
+
 ## Timeline
 
 *Two weeks* before the day you must lead the paper's discussion, you must
@@ -8,12 +10,12 @@
     Link that paper from the syllabus, and from the list of papers in that [directory](https://github.com/gwu-iot/collaboration/blob/master/papers/README.md).
     You must test that both links work and properly resolve to the pdf.
     Other students will use this link to access the paper.
-- Add a `github` Issue using the `paper discussion` tag titled "Paper discussion: XXX" where you replace "XXX" with the paper's title.
-    The body of the issue should simply include "Please add your feedback below.".
+- Add a `github` Issue using the `paper discussion` tag titled "Paper discussion: ##. XXX" where you replace "##" with the paper number (from the syllabus, like `9a`), and  "XXX" with the paper's title.
+    The body of the issue should simply include "Please add your feedback and reviews below.".
 
 In the week *before* the week you lead the paper's discussion, and 24 hours *before* office hours, you must send Gabe an email, titled "IoT S&S: Presentation Draft" including:
 
-- A link to your presentation created using google slides.
+- A link to your presentation created using google slides (see [template](https://docs.google.com/presentation/d/16hrWPUGSp1Zz9E0J3Oq3_QyQpejXYTHucG4OlOtsI64/edit?usp=sharing)).
     This must be a *complete* presentation.
     Expect to iterate on it, but at this point, you must have a quality result.
 - A list of questions you still have about the paper and presentation.
@@ -22,8 +24,15 @@ In the week *before* the week you lead the paper's discussion, and 24 hours *bef
 In effect, you'll provide your presentation, a set of questions you have, and you'll meet with Gabe in the week preceeding the week of your presentation.
 
 *One day* before you'll lead the paper's discussion, read through all student's reviews and discussion in the github issue.
-Please summarize the questions and critiques of from the other student's comments in the body of your issue (i.e. edit the issue).
-Do so as a bulleted list (read about how to do so in [markdown](https://guides.github.com/features/mastering-markdown/)), and please label each bullet with `@id` which is the `id` of the student that asked the question or made the comment.
+Please summarize the questions and critiques of from the other student's comments in the body of your issue (i.e. edit your initial post for the issue).
+Do so as a bulleted list (read about how to do so in [markdown](https://guides.github.com/features/mastering-markdown/)), and please label each bullet with `@id, name, type:` which is the github id of the student, the name of the student that asked the question or made the comment, and what type of review they were supposed to provide (critical or comprehension).
+They should provide their name and review type along with their review.
+The bullets should look like this:
+
+- @gparmer, Gabe Parmer, critical: The paper makes a very strong assumption that the IoT is useful at all. They argue that ...
+
+(Of course, please replace the comment with actual, useful feedback.)
+
 This does not need to be a *complete* list, rather a list of what you see as the most productive and useful questions and comments.
 
 Add another couple of slides at the end of your presentation that includes this list of questions/comments.

@@ -115,6 +115,10 @@ Note that only a restricted number of students can review a given paper.
 This is represented as the space available in the spreadsheet to track who is doing what type of review.
 These are allocated first-come, first-serve.
 
+Please sign up for your critical/comprehension reviews using the [form](https://docs.google.com/spreadsheets/d/1v_IVhO5MSM870ayeUy8Ooz0nfI-F0S5-iKOlyK6hBcM/edit?usp=sharing).
+You cannot sign up for a critical/comprehension review for a paper if the eight slots are already filled for the paper.
+Remember, you must sign up for one critical and one comprehension review each week, and they should not be for papers presented in the same day.
+
 Your paper review (for either Phase) must include:
 
 - A two to three sentence summary of the problem being solved.
@@ -138,6 +142,20 @@ If the paper is a *survey* which summarizes an area of research including many s
     Are there areas it ignores?
     Has the world changed since the survey was written, and it should be augmented with more modern issues?
     Are the assumptions of the problem domain less than ideal?
+
+## Submitting your review
+
+Your review should be submitted as a comment in the github issue (in the `collaboration` repo) for the paper you reviewed.
+Please start your review with:
+
+```
+Reviewer: Gabe Parmer
+Review type: Critical
+
+...
+```
+
+Of course, replace `Gabe Parmer` with your own name, and `Critical` with `Comprehension` if you did that type of review instead.
 
 ## In-class discussion
 
