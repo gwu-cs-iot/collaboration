@@ -51,6 +51,8 @@ The deadlines for each will be posted on Piazza.
         In class, we'll do peer feedback in which you'll present your demo and describe the technical aspects of the project to another group.
         When other groups present to you, your job is to provide them high-level feedback on the direction of the project, focusing on potential ideas that could help make their project better.
         These can be technical ideas, or "cool" ideas about how to use the technical parts of the project in novel ways.
+    
+    Please note that for Checkpoint I, you likely want to plan to get more done on the aspects of your system that don't require the physical system as ordering the devices can take some time.
 1. *Checkpoint II* - Same as *Checkpoint I*, but with the output in `checkpoint2.md`.
 1. *Demo & Presentation* - Each group will have 12 minutes to present a brief demo and give a technical overview of their project.
 1. *Demo day* - Demo your project to a broad audience!
