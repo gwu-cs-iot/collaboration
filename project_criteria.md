@@ -32,6 +32,10 @@ The deadlines for each will be posted on Piazza.
 1. *Project proposal* - your group must provide a proposal for your project.
     These will be submitted via form.
     Your aim is to convince me that your project meets the educational objectives for the class, and the project requirements above.
+1. *Project equipment request* - this won't have a deadline, but there is a latency in ordering parts, so please plan for a 2 week delay. 
+    Order early!
+    I'll set up a form for you to request equipment.
+    Generally, if you want to request more than $50 per group member worth of equipment, talk to me about it.
 1. *Project work distribution & timeline* - you must provide
     - a breakdown of the different components of the project
     - a timeline on when these will be completed, focusing particularly on what will be done by checkpoint I and checkpoint II
