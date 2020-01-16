@@ -13,10 +13,10 @@ This class effectively has two class structures.
 | --- | --- | --- |
 | T 1.14 | IoT and class background ([presentation](https://github.com/gwu-iot/collaboration/blob/master/resources/local_copy/01_intro.pdf)) | read [this](https://www.mckinsey.com/industries/private-equity-and-principal-investors/our-insights/growing-opportunities-in-the-internet-of-things), [this](https://www.scientificamerican.com/article/the-bandwidth-bottleneck-that-is-throttling-the-internet/), and optionally watch [this](https://www.youtube.com/watch?v=4QTAtFaIiyc) after class |
 | R 1.16 | Embedded systems | Fill out class [survey](https://forms.gle/xkXFdTXT64gF7TzcA); brainstorm **three** IoT project ideas |
-| T 1.21 | Cloud IoT services | PR to add at least one (non-redundant) link to [project inspiration](https://github.com/gwu-iot/collaboration/blob/master/resources/inspiration.md), and make sure to add a proper description |
+| T 1.21 | Real-time systems | PR to add at least one (non-redundant) link to [project inspiration](https://github.com/gwu-iot/collaboration/blob/master/resources/inspiration.md), and make sure to add a proper description |
 | R 1.22 | Guest lecture: Human/Robot Interactions w/ Prof. Park |  |
 | T 1.28 | Programming embedded systems | |
-| R 1.30 | Real-time systems | |
+| R 1.30 | Cloud IoT services | |
 | T 2.4 | Paper discussion leader: Gabe Parmer *On Enabling Technologies for the Internet of Important Things* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/cps18enabling_tech.pdf)) | Everyone should critically review |
 | R 2.6 | Discussion leader: ??? *A Survey on Internet of Things: Architecture, Enabling Technologies, Security and Privacy, and Applications*; Discussion leader: ??? *Fog Computing for the Internet of Things: Security and Privacy Issues* | Paper reviews |
 | T 2.11 | Discussion leader: ??? *The Signpost Platform for City-Scale Sensing*; Discussion leader: ??? *From Energy Audits to Monitoring Megawatt Loads:A Flexible and Deployable Power Metering System* | Paper reviews |
