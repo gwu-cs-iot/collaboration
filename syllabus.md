@@ -19,26 +19,26 @@ This class effectively has two class structures.
 | R 1.30 | Cloud IoT services | |
 | T 2.4 | Paper discussion leader: Gabe Parmer 1a. *On Enabling Technologies for the Internet of Important Things* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/cps18enabling_tech.pdf)) | Everyone should critically review |
 | R 2.6 | Discussion leader: ??? 2a. *A Survey on Internet of Things: Architecture, Enabling Technologies, Security and Privacy, and Applications*; Discussion leader: ??? 2b. *Fog Computing for the Internet of Things: Security and Privacy Issues* | Paper reviews, [Project proposal & plan](https://github.com/gwu-iot/collaboration/blob/master/project_criteria.md) |
-| T 2.11 | Discussion leader: ??? 3a. *The Signpost Platform for City-Scale Sensing*; Discussion leader: ??? 3b. *From Energy Audits to Monitoring Megawatt Loads:A Flexible and Deployable Power Metering System* | Paper reviews |
-| R 2.13 | Discussion leader: ??? 4a. *Chaos: a System for Criticality-Aware, Multi-core Coordination* ; Discussion leader: ??? 4b. *Virtualization on TrustZone-enabled Microcontrollers? Viola!* | Paper reviews |
-| T 2.18 | Discussion leader: ??? 5a. *Multiprogramming a 64 kB ComputerSafely and Efficiently* ; Discussion leader: ??? 5b. *Predictable Virtualization on Memory Protection Unit-based Microcontrollers* | Paper reviews |
+| T 2.11 | Guest lecture: Control w/ Taeyoung Lee | Paper reviews |
+| R 2.13 | Discussion leader: ??? 3a. *The Signpost Platform for City-Scale Sensing*; Discussion leader: ??? 3b. *From Energy Audits to Monitoring Megawatt Loads:A Flexible and Deployable Power Metering System* | Paper reviews |
+| T 2.18 | Discussion leader: ??? 4a. *Multiprogramming a 64 kB ComputerSafely and Efficiently* ; Discussion leader: ??? 4b. *Predictable Virtualization on Memory Protection Unit-based Microcontrollers* | Paper reviews |
 | R 2.20 | Project peer feedback | [Project Checkpoint I](https://github.com/gwu-iot/collaboration/blob/master/project_criteria.md) |
-| T 2.25 | Discussion leader: ??? 6a. *Real-Time Middleware for Cyber-Physical Event Processing* ; Discussion leader: ??? 6b. *LogSafe: Secure and Scalable Data Logger for IoT Devices* | Paper reviews |
+| T 2.25 | Discussion leader: ??? 5a. *Real-Time Middleware for Cyber-Physical Event Processing* ; Discussion leader: ??? 5b. *LogSafe: Secure and Scalable Data Logger for IoT Devices* | Paper reviews |
 | R 2.27 | Security introduction | Read (but don't review) *The Internet of Things Is Wildly Insecure — And Often Unpatchable*, *It's Time for IoT Security's Next Big Step*, and *Dealing with Infrastructure Disruption: IoT Security* |
-| T 3.3 | Discussion leader: ??? 7a. *A survey of secure middleware for the Internet of Things* ; Discussion leader: ??? 7b. *Trustworthy Medical Device Software* | Paper reviews |
-| R 3.5 | Discussion leader: ??? 8a. *Secure Embedded Systems* ; Discussion leader: ??? 8b. *Special Session: The Future of IoT Security* | Paper reviews |
-| T 3.10 | Discussion leader: ??? 9a. *Preserving Physical Safety Under Cyber Attacks* ; Discussion leader: ??? 9b. *Securing Real-Time Internet-of-Things* | Paper reviews |
-| R 3.12 | Discussion leader: ??? 10a. *A Large-Scale Analysis of the Security  of Embedded Firmwares* ; Discussion leader: ??? 10b. *IoTPOT: Analysing the Rise of IoT Compromises* | Paper reviews |
+| T 3.3 | Discussion leader: ??? 6a. *A survey of secure middleware for the Internet of Things* ; Discussion leader: ??? 6b. *Trustworthy Medical Device Software* | Paper reviews |
+| R 3.5 | Discussion leader: ??? 7a. *Secure Embedded Systems* ; Discussion leader: ??? 7b. *Special Session: The Future of IoT Security* | Paper reviews |
+| T 3.10 | Discussion leader: ??? 8a. *Preserving Physical Safety Under Cyber Attacks* ; Discussion leader: ??? 8b. *Securing Real-Time Internet-of-Things* | Paper reviews |
+| R 3.12 | Discussion leader: ??? 9a. *A Large-Scale Analysis of the Security  of Embedded Firmwares* ; Discussion leader: ??? 9b. *IoTPOT: Analysing the Rise of IoT Compromises* | Paper reviews |
 | T 3.17 | Spring hackathon | no class |
 | R 3.19 | Spring hackathon | no class |
 | T 3.24 | Project peer feedback | [Project Checkpoint II](https://github.com/gwu-iot/collaboration/blob/master/project_criteria.md) |
-| R 3.26 | Discussion leader: ??? 11a. *Experimental Security Analysis of a Modern Automobile* ; Discussion leader: ??? 11b. *Risks of Trusting the Physics of Sensors* | Paper reviews |
-| T 3.31 | Discussion leader: ??? 12a. *A Component Architecture for the Internet of Things* ; Discussion leader: ??? 12b. *The Swarm at the Edge of the Cloud* | Paper reviews |
-| R 4.2 | Discussion leader: ??? 13a. *A Toolkit for Construction of Authorization Service Infrastructure for the Internet of Things* ; Discussion leader: ??? 13b. *Decision-driven Execution- A Distributed Resource Management Paradigm for the Age of IoT* | Paper reviews |
-| T 4.7 | Discussion leader: ??? 14a. *FRAME: Fault Tolerant and Real-Time Messagingfor Edge Computing* ; Discussion leader: ??? 14b. *End-to-End Analysis and Design of a Drone Flight Controller* | Paper reviews |
-| R 4.9 | Discussion leader: ??? 15a. *Don’t Talk Unless I Say So! Securing the Internet of Things With Default-Off Networking* ; Discussion leader: ??? 15b. *Beetle: Flexible Communication for Bluetooth Low Energy* | Paper reviews |
-| T 4.14 | Discussion leader: ??? 16a. *propose paper or topic here!* ; Discussion leader: ??? 16b. *propose paper or topic here!* | Paper reviews |
-| R 4.16 | Discussion leader: ??? 17a. *propose paper or topic here!* ; Discussion leader: ??? 17b. *propose paper or topic here!* | Paper reviews |
+| R 3.26 | Discussion leader: ??? 10a. *Experimental Security Analysis of a Modern Automobile* ; Discussion leader: ??? 10b. *Risks of Trusting the Physics of Sensors* | Paper reviews |
+| T 3.31 | Discussion leader: ??? 11a. *A Component Architecture for the Internet of Things* ; Discussion leader: ??? 11b. *The Swarm at the Edge of the Cloud* | Paper reviews |
+| R 4.2 | Discussion leader: ??? 12a. *A Toolkit for Construction of Authorization Service Infrastructure for the Internet of Things* ; Discussion leader: ??? 12b. *Decision-driven Execution- A Distributed Resource Management Paradigm for the Age of IoT* | Paper reviews |
+| T 4.7 | Discussion leader: ??? 13a. *FRAME: Fault Tolerant and Real-Time Messagingfor Edge Computing* ; Discussion leader: ??? 13b. *End-to-End Analysis and Design of a Drone Flight Controller* | Paper reviews |
+| R 4.9 | Discussion leader: ??? 14a. *Don’t Talk Unless I Say So! Securing the Internet of Things With Default-Off Networking* ; Discussion leader: ??? 14b. *Beetle: Flexible Communication for Bluetooth Low Energy* | Paper reviews |
+| T 4.14 | Discussion leader: ??? 15a. *Chaos: a System for Criticality-Aware, Multi-core Coordination* ; Discussion leader: ??? 15b. *Virtualization on TrustZone-enabled Microcontrollers? Viola!*  | Paper reviews |
+| R 4.16 | Discussion leader: ??? 16a. *propose paper or topic here!* ; Discussion leader: ??? 16b. *propose paper or topic here!* | Paper reviews |
 | T 4.21 | Final presentation/demo | |
 | R 4.23 | Final presentation/demo | Project github repo [finalized](https://github.com/gwu-iot/collaboration/blob/master/project_criteria.md) |
 | | Rest of your life: brag about the IoT system you created, and the awesome things you've done | |
