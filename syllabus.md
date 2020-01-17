@@ -16,7 +16,7 @@ This class effectively has two class structures.
 | T 1.21 | Real-time systems | PR to add at least one (non-redundant) link to [project inspiration](https://github.com/gwu-iot/collaboration/blob/master/resources/inspiration.md), and make sure to add a proper description |
 | R 1.22 | Guest lecture: Human/Robot Interactions w/ Prof. Park |  |
 | T 1.28 | Programming embedded systems | Group selection via [form](TODO). Proposing not three group members -> get my approval |
-| R 1.30 | Cloud IoT services | |
+| R 1.30 | Guest lecture: Interactive Art w/ Kevin Patton | |
 | T 2.4 | Paper discussion leader: Gabe Parmer 1a. *On Enabling Technologies for the Internet of Important Things* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/cps18enabling_tech.pdf)) | Everyone should critically review |
 | R 2.6 | Discussion leader: ??? 2a. *A Survey on Internet of Things: Architecture, Enabling Technologies, Security and Privacy, and Applications* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/iotj17iot_survey.pdf)); Discussion leader: ??? 2b. *Fog Computing for the Internet of Things: Security and Privacy Issues* | Paper reviews, [Project proposal & plan](https://github.com/gwu-iot/collaboration/blob/master/project_criteria.md) |
 | T 2.11 | Guest lecture: Control w/ Taeyoung Lee |  |
