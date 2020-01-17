@@ -46,18 +46,18 @@ I expect you to put time into doing it well, and to improve over time.
 ## Presentation Expectations
 
 Your presentation should use the [class template](https://docs.google.com/presentation/d/16hrWPUGSp1Zz9E0J3Oq3_QyQpejXYTHucG4OlOtsI64/edit?usp=sharing) by copying it, and, after you're done, sharing it with Prof. Parmer.
-Each presentation *must* be highly practiced, and should be targetted for *23 minutes*.
-When you send the presentation to Gabe, please make sure that it fits into 23 minutes.
-As a rough guide, this 23 minutes should be decomposed as:
+Each presentation *must* be highly practiced, and should be targetted for *20 minutes*.
+When you send the presentation to Gabe, please make sure that it fits into 20 minutes.
+As a rough guide, this 20 minutes should be decomposed as:
 
 - 7 minutes on background, and the problem domain.
     What is the problem being solved, and why does it matter?
 - 1 minutes a clear definition of the problem being solved, and a high-level description of how the authors solve it (lacking details).
-- 2 minutes discussing assumptions about the problem domain and solution.
+- 1 minutes discussing assumptions about the problem domain and solution.
 - 4 minutes discussing a high-level design of the system and how it solves the problem.
-- 5 minutes discussing evaluation.
-- 3 minutes critiquing the paper, discussing assumptions, and generally having a critical eye.
-- 1 minute conluding the paper, and summarizing its main contributions.
+- 4 minutes discussing evaluation.
+- 2 minutes critiquing the paper, discussing assumptions, and generally having a critical eye.
+- 1 minute concluding the paper, and summarizing its main contributions.
 
 Note that the presentation will likely go longer than this as everyone in the class should ask clarification questions if there are confusions.
 
@@ -68,10 +68,10 @@ For these papers, the following guide is more appropriate:
 
 - 7 minutes on background and the problem domain.
 - 1 minute defining the goal of the survey, and what it is exploring.
-- 10 minutes iterating on the surveyed material.
+- 8 minutes iterating on the surveyed material.
     Follow the structure of the paper and the methods of defining taxonomies.
 - 2 minutes on critiquing the problem domain, and the survey.
     What assumptions does all of the work make?
     What areas are not covered by the survey that are interesting in the problem domain?
     What open problems remain?
-- 3 minutes summarizing
+- 2 minutes summarizing
