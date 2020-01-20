@@ -37,3 +37,5 @@ Please add more! PRs accepted.
 - Our dairy life optimization of energy efficiency can be accomplished by IoT ["Smart Home" Energy Efficient IoT Technology](https://www.youtube.com/watch?v=iCgf_YmOykw). For making the smart house, many types of sensors and management systems are needed. Thanks to the smart home, we can save energy without additional individual effort!
 - New [wearable device](https://spirehealth.com/pages/research-platform) to monitor respiration, pulse, sleep, and activity to help with health conditions including asthma, anxiety, sleep disorders and more. 
 - Mesh that [athletes](https://electronicsforu.com/electronics-projects/wifi-bluetooth-mesh-enabled-iot-smart-device-for-athletes) can wear to get readings on how their body responds to certain situations in whatever sport they play
+- A miniature hot air balloon/zeppelin controlled using gas. Camera's and sensors attached, low noise drone
+- Smart watch designed using BLE and adafruit microcontroller.
