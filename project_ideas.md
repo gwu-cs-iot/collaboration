@@ -10,12 +10,14 @@ How can we visually depict pollution levels around the globe in an interactive w
 There are many ways to do this.
 One might be to provide an array of lights that map pollution levels into different light configurations, and allowing humans proximate to the lights to interactively (perhaps with bluetooth and their cellphones) select the GPS location to use for the visualization.
 
-*Technology*:
+_Technology_:
+
 - visual/auditory actuator programming (lights, sounds, etc...)
 - bluetooth programming
 - web APIs for getting pollution levels around the globe
 
-*Focus*:
+_Focus_:
+
 - Web APIs and actuator (e.g. light) programming
 
 ## Sound source localization + targetted noise canceling
@@ -24,27 +26,31 @@ Multiple microphones spread around a room can perform localization and audio pro
 This requires each microphone to be connected to the same system, or for multiple systems to use a time coordination protocol to label when they receive a specific sound.
 Central processing on these feeds of data can determine where the sound is coming from (in 2d), and speakers either can be dimmed in that location to enable a conversation to stay quiet, or used to broadcast specific sound waves to cancel the sound.
 
-*Technology*:
+_Technology_:
+
 - Global time synchronization
 - audio processing
 - speaker and microphone interfaces
 
-*Focus*:
+_Focus_:
+
 - Real-time sound processing and interaction
 
 ## Edge-driven time synchronization
 
 [NTP](https://en.wikipedia.org/wiki/Network_Time_Protocol) and related protocols provide relatively fine-grained synchronization in a distributed system.
 It is quite powerful for all IoT devices to have a shared notion of time.
-Their sensor readings how have a shared global meaning (at this millisecond, we're observing this sound), and their actuation can be synchronized (at time *t*, lights should start a sequence of actions).
+Their sensor readings how have a shared global meaning (at this millisecond, we're observing this sound), and their actuation can be synchronized (at time _t_, lights should start a sequence of actions).
 To get tighter synchronization, the server code coordinating time synchronization can be placed on the edge.
 
-*Technology*:
+_Technology_:
+
 - Global time synchronization
 - Edge computing
 - sensor/actuator interaction with time
 
-*Focus*:
+_Focus_:
+
 - time synchronization protocols and the edge
 
 ## Environment sensing for efficient autonomous driving
@@ -56,12 +62,14 @@ The goal would be to use very cheap sensors such as cameras, and IR/ultrasonic r
 
 A version of this uses a swarm of [`edumips`](https://www.youtube.com/watch?v=BIMb8D5RdGA) that don't have powerful sensor capabilities.
 
-*Technology*:
+_Technology_:
+
 - Integrating with an AV technology stack.
 - Interfacing with sensors, processing the output, and sending it to the vehicle.
 - Building a model about where the vehicle is from distributed sensors.
 
-*Focus*:
+_Focus_:
+
 - Device programming, sensor interpretation, distributed coordination
 
 ## Smart X
@@ -83,13 +91,15 @@ Performance?
 Presentations (that would be a demo at the end!)?
 ...
 
-*Technology*:
+_Technology_:
+
 - embedded system programming
 - cloud interactions
 - interaction between sensor suites and humans
 - sensor programming (e.g. video/image processing)
 
-*Focus*:
+_Focus_:
+
 - Application/interaction focus
 
 ## Edge cloud MQTT broker
@@ -102,13 +112,15 @@ What IoT system would use this support?
 Are there low-latency improvements to MQTT that you can propose?
 Are there edge architectures that enable this application?
 
-*Technology*:
+_Technology_:
+
 - MQTT stacks (see `wolfmq`)
 - Edge architectures
 - MQTT servers
 - IoT systems requiring low-latency communication
 
-*Focus*:
+_Focus_:
+
 - Edge cloud programming
 
 ## High-level programming model for IoT
@@ -116,20 +128,22 @@ Are there edge architectures that enable this application?
 Similar to [samsung's automations](https://smartthings.developer.samsung.com/docs/smartapps/automation.html), build a high-level programming model for connecting
 
 - IoT actuator devices, with
-- IoT sensor devices, and 
+- IoT sensor devices, and
 - Internet information
 
 A [trivial](https://www.youtube.com/watch?v=ycUlqro_QMo&feature=youtu.be) example of this for using internet information into a smart-bulb.
 
 This project could focus on creating a new programming model and API with a strong design around security, or could focus more-so on an interesting interactive demo (art display, informational display, etc...).
 
-*Technology*:
+_Technology_:
+
 - Cloud programming and implementation of the programming model
 - IoT device interaction and programming
 - wireless communication
 - Internet service intergration
 
-*Focus*:
+_Focus_:
+
 - Cloud programming
 
 ## Secure IoT devices
@@ -148,15 +162,17 @@ There are three paths that this project could take:
 - Use a embedded OS/RTOS that supports isolation,
 - Use the Rust support for [embedded systems](https://github.com/rust-embedded/awesome-embedded-rust) for isolation
 - Use Linux, but put work into figuring out how to lock down the system and provide an execution sandbox for the application.
-    Logging fine-grained application behavior might be challenging here.
-    
-*Technology*:
+  Logging fine-grained application behavior might be challenging here.
+
+_Technology_:
+
 - The embedded system software (RTOS/Rust/Linux)
 - Some prototype sensor/actuators to demonstrate that you can support them
 - Cloud/IoT interaction
 - Cloud APIs for storage and processing
 
-*Focus*:
+_Focus_:
+
 - embedded system programming
 
 ## Agile IoT devices via device functionality update and attestation
@@ -166,10 +182,28 @@ What if we only want to update the applications and not the system?
 We likely need to attest that the software is coming from a trusted source.
 The software that provides the attestation on the IoT device, and provides the signatures in the cloud needs careful design.
 
-*Technology*:
+_Technology_:
+
 - Crypto
 - Device update interactions
 - Cloud interactions and portal for updating software
 
-*Focus*:
+_Focus_:
+
 - crypto and device programming around updates
+
+## Inferencing intent from biosignals in a non-invasive manner
+
+We use electrical impulses to actuate movements of various body parts.
+The goal in this project is to read biosignals from the body with external nodes.
+This data can then be uploaded to the cloud where machine learning can be used to infer the intended movement of the limb.
+
+_Technology_:
+
+- cloud interaction
+- signal decomposition
+- machine learning
+
+_Focus_:
+
+- embedded systems, cloud, machine learning programming and signal processing
