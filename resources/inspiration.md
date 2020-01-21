@@ -39,3 +39,4 @@ Please add more! PRs accepted.
 - Mesh that [athletes](https://electronicsforu.com/electronics-projects/wifi-bluetooth-mesh-enabled-iot-smart-device-for-athletes) can wear to get readings on how their body responds to certain situations in whatever sport they play
 - A miniature hot air balloon/zeppelin controlled using gas. Camera's and sensors attached, low noise drone
 - Smart watch designed using BLE and adafruit microcontroller.
+- Smart [refrigerator](https://www.researchgate.net/publication/322653199_IoT_Based_Interactive_Smart_Refrigerator) research paper that proposes a refrigerator that tracks the freshness and amount of food being stored inside and sends updates/reminders to the owener with a mobile application
