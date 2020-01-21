@@ -44,3 +44,5 @@ Please add more! PRs accepted.
 - Smart [refrigerator](https://www.researchgate.net/publication/322653199_IoT_Based_Interactive_Smart_Refrigerator) research paper that proposes a refrigerator that tracks the freshness and amount of food being stored inside and sends updates/reminders to the owener with a mobile application
 - IoT-enabled board game; [this one uses two physical chess boards](https://www.youtube.com/watch?v=ta-q7Qbpj4Q), but the idea could be used to connect a single game board for something more elaborate like [Settlers of Catan](https://boardgamegeek.com/boardgame/13/catan) to a computer or server which hosts an [AI player](https://github.com/maxyurk/settlers_of_catan)
 - DIY [air filter](https://github.com/Kels316/DIY-Air-Purifier). What could we do with it once connected to internet/phone, and what sensors should be added?
+- Business card that runs linux on it for some [reason]( https://www.thirtythreeforty.net/posts/2019/12/my-business-card-runs-linux/)
+- [TinySDR](https://arxiv.org/pdf/1907.02063.pdf) Proposed Software defined radio platform for LoRa and BLE and can be programmed over the air
