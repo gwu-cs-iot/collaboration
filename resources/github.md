@@ -79,3 +79,10 @@ Before doing a commit, I always (at least) do the following:
 - `git diff` - I go through the changes and make a mental list of what changes were made
 - `git commit -a` - Note that I try not use the `-am` flag non-trivial commits.
 	Add a single line that summarizes the commit, then a bullet-list of the changes I noted in the previous step.
+
+## Collaborating in a repository without write permissions
+
+If you don't have write permissions in a github repository, you won't be able to push directly even if it is in a branch different to master. These are the steps to follow:
+- `fork` - Go to the original repo and click the fork button, top right of the screen, this creates a copy of the repo in your github account
+- Make the necessary changes and `push` them to your forked repo.
+- Go to the original repo and go to the pull requests menu. Here click on `create new pull request` and then `compare across forks`, look for your forked repository and click `create pull request`.
