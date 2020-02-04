@@ -107,10 +107,10 @@ Third phase: judge the paper’s details
 - Think about what is missing (evaluation, assumptions, proofs...)
 
 ## Paper review
+For each day/set of papers, you must alternate between doing one Phase 3 (critical) review and one Phase 2 (comprehension) review.
+For example, if you did a critical review on paper 4a, you would do a comprehension review for either 5a or 5b.
+Provided that students stagger themselves, this should ensure that there are always people doing both types of review.
 
-Each week, you must Phase 3 review one paper.
-In the other day of the week, you must Phase 2 review another paper.
-For example, if on a Thursday, you provide a Phase 3 review for one of that day's papers, then on Tuesday, you have to provide a Phase 2 review.
 Note that only a restricted number of students can review a given paper.
 This is represented as the space available in the spreadsheet to track who is doing what type of review.
 These are allocated first-come, first-serve.
