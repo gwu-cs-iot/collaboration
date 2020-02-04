@@ -32,7 +32,7 @@ Arwa Alrawais, Abdulrahman Alhothaily, Chunqiang Hu, and Xiuzhen Cheng
 
 ## Systems:
 - *From Energy Audits to Monitoring Megawatt Loads:A Flexible and Deployable Power Metering System* by Bradford Campbell, Ye-sheng Kuo, and Prabal Dutta
-- *The Signpost Platform for City-Scale Sensing* by Joshua Adkins, Bradford Campbell, Branden Ghena, Neal Jackson, Pat Pannuto, Samuel Rohrer, and Prabal Dutta
+- *The Signpost Platform for City-Scale Sensing* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/ipsn18signpost.pdf)) by Joshua Adkins, Bradford Campbell, Branden Ghena, Neal Jackson, Pat Pannuto, Samuel Rohrer, and Prabal Dutta
 - *Chaos: a System for Criticality-Aware, Multi-core Coordination* by Phani Kishore Gadepalli, Gregor Peach, Gabriel Parmer, Joseph Espy, Zachary Day
 - *Predictable Virtualization on Memory Protection Unit-based Microcontrollers* by Runyu Pan, Gregor Peach, Yuxin Ren, Gabriel Parmer
 - *Virtualization on TrustZone-enabled Microcontrollers? Viola!* by Sandro Pinto, Hugo Araujo Daniel Oliviera, Jose Martins, and Adriano Tavares
