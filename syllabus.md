@@ -37,7 +37,7 @@ This class effectively has two class structures.
 | R 4.2 | Discussion leader: ??? 12a. *A Toolkit for Construction of Authorization Service Infrastructure for the Internet of Things* ; Discussion leader: ??? 12b. *Decision-driven Execution- A Distributed Resource Management Paradigm for the Age of IoT* | Paper reviews |
 | T 4.7 | Discussion leader: ??? 13a. *FRAME: Fault Tolerant and Real-Time Messagingfor Edge Computing* ; Discussion leader: ??? 13b. *End-to-End Analysis and Design of a Drone Flight Controller* | Paper reviews |
 | R 4.9 | Discussion leader: ??? 14a. *Don’t Talk Unless I Say So! Securing the Internet of Things With Default-Off Networking* ; Discussion leader: ??? 14b. *Beetle: Flexible Communication for Bluetooth Low Energy* | Paper reviews |
-| T 4.14 | Discussion leader: ??? 15a. *Chaos: a System for Criticality-Aware, Multi-core Coordination* ; Discussion leader: ??? 15b. *Virtualization on TrustZone-enabled Microcontrollers? Viola!*  | Paper reviews |
+| T 4.14 | Discussion leader: Sean McBride 15a. *Chaos: a System for Criticality-Aware, Multi-core Coordination* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/rtas19chaos.pdf)); Discussion leader: ??? 15b. *Virtualization on TrustZone-enabled Microcontrollers? Viola!*  | Paper reviews |
 | R 4.16 | Discussion leader: ??? 16a. *propose paper or topic here!* ; Discussion leader: ??? 16b. *propose paper or topic here!* | Paper reviews |
 | T 4.21 | Final presentation/demo | |
 | R 4.23 | Final presentation/demo | Project github repo [finalized](https://github.com/gwu-iot/collaboration/blob/master/project_criteria.md) |
