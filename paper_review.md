@@ -107,10 +107,19 @@ Third phase: judge the paper’s details
 - Think about what is missing (evaluation, assumptions, proofs...)
 
 ## Paper review
+You must Phase 1 review every paper on the syllabus.
+This is the only reading you need to do on weeks where you are a discussion leader (except for the paper you're presenting of course).
 
-Each week, you must Phase 3 review one paper.
-In the other day of the week, you must Phase 2 review another paper.
+On weeks with two days of paper reading (four papers), you must Phase 3 review one paper and Phase 2 review another paper.
+These two reviews must happen on different days.
 For example, if on a Thursday, you provide a Phase 3 review for one of that day's papers, then on Tuesday, you have to provide a Phase 2 review.
+
+On weeks with one day of paper reading (two papers), you must do one Phase 2 or one Phase 3 review.
+
+By the end of the semester, your number of Phase 2 reviews must be about the same as your number of Phase 3 reviews.
+To be precise, the difference between the number of Phase 2 reviews you did and the number of Phase 3 reviews you did must be 3 or less.
+The implication of this rule is that you must balance doing Phase 2 and Phase 3 reviews on weeks where there is only one day of reading.
+
 Note that only a restricted number of students can review a given paper.
 This is represented as the space available in the spreadsheet to track who is doing what type of review.
 These are allocated first-come, first-serve.
