@@ -128,13 +128,16 @@ Please sign up for your critical/comprehension reviews using the [form](https://
 You cannot sign up for a critical/comprehension review for a paper if the eight slots are already filled for the paper.
 Remember, you must sign up for one critical and one comprehension review each week, and they should not be for papers presented in the same day.
 
-Your paper review (for either Phase) must include:
+After doing a Phase 1 review, there is no need to write or submit anything.
+
+However, you must do some writing after a Phase 2 or Phase 3 review.
+This write-up must include:
 
 - A two to three sentence summary of the problem being solved.
 - A two to three sentence summary of the main contributions.
 - Three questions about the paper. These questions might be about (but aren't limited to) ideas or concepts that you don't understand, design or implementation decisions that don't make sense to you, and questions about the problem domain.
 
-A Phase 3 *critical review* must also include:
+For a Phase 3 *critical review* this must also include:
 
 - Three critiques or critical comments about the paper, its assumptions, the system's design, etc...
 
@@ -154,8 +157,8 @@ If the paper is a *survey* which summarizes an area of research including many s
 
 ## Submitting your review
 
-Your review should be submitted as a comment in the github issue (in the `collaboration` repo) for the paper you reviewed.
-Please start your review with:
+Your review write-up should be submitted as a comment in the Github issue (in the `collaboration` repo) for the paper you reviewed.
+Please start your write-up with:
 
 ```
 Reviewer: Gabe Parmer
