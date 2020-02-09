@@ -30,7 +30,7 @@ The deadlines for each will be posted on Piazza.
 1. *Group selection* - groups should have 3 members by default, though 4 can be argued for.
     Students working on research projects can argue for fewer members.
 1. *Project proposal* - your group must provide a proposal for your project.
-    These will be submitted via form.
+    These will be submitted via [form](https://forms.gle/EfqpfMUWwnWLfhMHA).
     Your aim is to convince me that your project meets the educational objectives for the class, and the project requirements above.
 1. *Project equipment request* - this won't have a deadline, but there is a latency in ordering parts, so please plan for a 2 week delay. 
     Order early!
