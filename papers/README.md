@@ -39,7 +39,7 @@ Arwa Alrawais, Abdulrahman Alhothaily, Chunqiang Hu, and Xiuzhen Cheng
 - *Securing Real-Time Microcontroller Systems through Customized Memory View Switching* by Chung Hwan Kim, Taegyu Kim, Hongjun Choi, Zhongshu Gu, Byoungyoung Lee, Xiangyu Zhang, and Dongyan Xu
 - *Multiprogramming a 64 kB ComputerSafely and Efficiently* by Amit Levy, Bradford Campbell, Branden Ghena, Daniel B. Giffin, Pat Pannuto, Prabal Dutta, and Philip Levis
 - *Real-Time Middleware for Cyber-Physical Event Processing* by Chao Wang, Chris Gill, and Chenyang Lu
-- *LogSafe: Secure and Scalable Data Logger for IoT Devices* by Hung Nguyen, et al.
+- *LogSafe: Secure and Scalable Data Logger for IoT Devices* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/iotdi18logsafe.pdf)) by Hung Nguyen, et al.
 - *End-to-End Analysis and Design of a Drone Flight Controller* by Zhuoqun Cheng, Richard West, and Craig Einstein
 
 ## Distribution and Programming Models:
