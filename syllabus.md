@@ -25,7 +25,7 @@ This class effectively has two class structures.
 | R 2.20 | Project peer feedback | [Project Checkpoint I](https://github.com/gwu-iot/collaboration/blob/master/project_criteria.md) |
 | T 2.25 | Discussion leader: ??? 5a. *Real-Time Middleware for Cyber-Physical Event Processing* ; Discussion leader: ??? 5b. *LogSafe: Secure and Scalable Data Logger for IoT Devices* | Paper reviews |
 | R 2.27 | Security introduction | Read (but don't review) *The Internet of Things Is Wildly Insecure — And Often Unpatchable*, *It's Time for IoT Security's Next Big Step*, and *Dealing with Infrastructure Disruption: IoT Security* |
-| T 3.3 | Discussion leader: ??? 6a. *A survey of secure middleware for the Internet of Things* ; Discussion leader: ??? 6b. *Trustworthy Medical Device Software* | Paper reviews |
+| T 3.3 | Discussion leader: ??? 6a. *A survey of secure middleware for the Internet of Things* ; Discussion leader: Lily Shpak 6b. *Trustworthy Medical Device Software* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/iom11medical_security.pdf))| Paper reviews |
 | R 3.5 | Discussion leader: ??? 7a. *Secure Embedded Systems* ; Discussion leader: ??? 7b. *Special Session: The Future of IoT Security* | Paper reviews |
 | T 3.10 | Discussion leader: ??? 8a. *Preserving Physical Safety Under Cyber Attacks* ; Discussion leader: ??? 8b. *Securing Real-Time Internet-of-Things* | Paper reviews |
 | R 3.12 | Discussion leader: ??? 9a. *A Large-Scale Analysis of the Security  of Embedded Firmwares* ; Discussion leader: ??? 9b. *IoTPOT: Analysing the Rise of IoT Compromises* | Paper reviews |
