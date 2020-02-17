@@ -32,14 +32,14 @@ Arwa Alrawais, Abdulrahman Alhothaily, Chunqiang Hu, and Xiuzhen Cheng
 
 ## Systems:
 - *From Energy Audits to Monitoring Megawatt Loads:A Flexible and Deployable Power Metering System* by Bradford Campbell, Ye-sheng Kuo, and Prabal Dutta
-- *The Signpost Platform for City-Scale Sensing* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/ipsn18signpost.pdf)) by Joshua Adkins, Bradford Campbell, Branden Ghena, Neal Jackson, Pat Pannuto, Samuel Rohrer, and Prabal Dutta
+- *The Signpost Platform for City-Scale Sensing* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/3a-ipsn18signpost.pdf)) by Joshua Adkins, Bradford Campbell, Branden Ghena, Neal Jackson, Pat Pannuto, Samuel Rohrer, and Prabal Dutta
 - *Chaos: a System for Criticality-Aware, Multi-core Coordination* by Phani Kishore Gadepalli, Gregor Peach, Gabriel Parmer, Joseph Espy, Zachary Day
 - *Predictable Virtualization on Memory Protection Unit-based Microcontrollers* by Runyu Pan, Gregor Peach, Yuxin Ren, Gabriel Parmer
 - *Virtualization on TrustZone-enabled Microcontrollers? Viola!* by Sandro Pinto, Hugo Araujo Daniel Oliviera, Jose Martins, and Adriano Tavares
 - *Securing Real-Time Microcontroller Systems through Customized Memory View Switching* by Chung Hwan Kim, Taegyu Kim, Hongjun Choi, Zhongshu Gu, Byoungyoung Lee, Xiangyu Zhang, and Dongyan Xu
 - *Multiprogramming a 64 kB ComputerSafely and Efficiently* by Amit Levy, Bradford Campbell, Branden Ghena, Daniel B. Giffin, Pat Pannuto, Prabal Dutta, and Philip Levis
 - *Real-Time Middleware for Cyber-Physical Event Processing* by Chao Wang, Chris Gill, and Chenyang Lu
-- *LogSafe: Secure and Scalable Data Logger for IoT Devices* by Hung Nguyen, et al.
+- *LogSafe: Secure and Scalable Data Logger for IoT Devices* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/5b-iotdi18logsafe.pdf)) by Hung Nguyen, et al.
 - *End-to-End Analysis and Design of a Drone Flight Controller* by Zhuoqun Cheng, Richard West, and Craig Einstein
 
 ## Distribution and Programming Models:
