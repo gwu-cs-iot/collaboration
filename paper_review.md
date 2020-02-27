@@ -19,8 +19,8 @@ If the student leading the paper's discussion has not yet posted the issue, you 
 
 ### Timeline
 
-You must provide your review at least *two days* before the paper's discussion.
-For example, if a paper is going to be discussed on Thursday, you must provide your review by midnight on Tuesday.
+You must provide your review at least *24 hours* before the paper's discussion.
+For example, if a paper is going to be discussed on Thursday, you must provide your review by 12:45 on Wednesday.
 
 ## Reading a Paper
 
