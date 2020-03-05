@@ -21,7 +21,7 @@ Arwa Alrawais, Abdulrahman Alhothaily, Chunqiang Hu, and Xiuzhen Cheng
 - *The Internet of Things Is Wildly Insecure — And Often Unpatchable* by Bruce Schneier, *It's Time for IoT Security's Next Big Step* by Lily Hay Newman, and *Dealing with Infrastructure Disruption: IoT Security* by Kevin Fu
 - *A survey of secure middleware for the Internet of Things* by Paul Fremantle, Philip Scott
 - *Trustworthy Medical Device Software* by Kevin Fu
-- *A Large-Scale Analysis of the Security  of Embedded Firmwares* by Andrei Costin, Jonas Zaddach, Aurélien Francillon, and Davide Balzarotti
+- *A Large-Scale Analysis of the Security  of Embedded Firmwares* [pdf](https://github.com/gwu-iot/collaboration/raw/master/papers/9a-security14emb_firmware.pdf) by Andrei Costin, Jonas Zaddach, Aurélien Francillon, and Davide Balzarotti
 - *Secure Embedded Systems* by Michael Vai et al.
 - *Preserving Physical Safety Under Cyber Attacks* by F. Abdi, C. Y. Chen, M. Hasan, S. Mohan and M. Caccamo
 - *Securing Real-Time Internet-of-Things* by Chien-Ying Chen, Monowar Hasan, and Sibin Mohan
