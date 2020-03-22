@@ -36,9 +36,9 @@ This class effectively has two class structures.
 | T 3.31 | Discussion leader: ??? 11a. *A Component Architecture for the Internet of Things* ; Discussion leader: ??? 11b. *The Swarm at the Edge of the Cloud* | Paper reviews |
 | R 4.2 | Discussion leader: ??? 12a. *A Toolkit for Construction of Authorization Service Infrastructure for the Internet of Things* ; Discussion leader: ??? 12b. *Decision-driven Execution- A Distributed Resource Management Paradigm for the Age of IoT* | Paper reviews |
 | T 4.7 | Discussion leader: ??? 13a. *FRAME: Fault Tolerant and Real-Time Messagingfor Edge Computing* ; Discussion leader: ??? 13b. *End-to-End Analysis and Design of a Drone Flight Controller* | Paper reviews |
-| R 4.9 | Discussion leader: ??? 14a. *Don’t Talk Unless I Say So! Securing the Internet of Things With Default-Off Networking* ; Discussion leader: ??? 14b. *Beetle: Flexible Communication for Bluetooth Low Energy* | Paper reviews |
+| R 4.9 | Discussion leader: ??? 14a. *Don’t Talk Unless I Say So! Securing the Internet of Things With Default-Off Networking* ; Discussion leader: Ratnadeep Bhattacharya 14b. *Beetle: Flexible Communication for Bluetooth Low Energy* | Paper reviews |
 | T 4.14 | Discussion leader: Sean McBride 15a. *Chaos: a System for Criticality-Aware, Multi-core Coordination* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/15a-rtas19chaos.pdf)); Discussion leader: ??? 15b. *Virtualization on TrustZone-enabled Microcontrollers? Viola!*  | Paper reviews |
-| R 4.16 | Discussion leader: ??? 16a. *propose paper or topic here!* ; Discussion leader: ??? 16b. *propose paper or topic here!* | Paper reviews |
+| R 4.16 | Discussion leader: Ratnadeep Bhattacharya 16a. *Hash-routing Schemes for Information Centric Networking* ([pdf](https://github.com/ratnadeepb/collaboration/blob/master/papers/16a-Hash-routing%20Schemes%20for%20Information%20Centric%20Networking.pdf); Discussion leader: ??? 16b. *propose paper or topic here!* | Paper reviews |
 | T 4.21 | Demo in SEH B1167! Invite your friends! | |
 | R 4.23 | Final presentation | Project github repo [finalized](https://github.com/gwu-iot/collaboration/blob/master/project_criteria.md) |
 | | Rest of your life: brag about the IoT system you created, and the awesome things you've done | |
