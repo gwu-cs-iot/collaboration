@@ -19,8 +19,8 @@ If the student leading the paper's discussion has not yet posted the issue, you 
 
 ### Timeline
 
-You must provide your review at least *two days* before the paper's discussion.
-For example, if a paper is going to be discussed on Thursday, you must provide your review by midnight on Tuesday.
+You must provide your review at least *24 hours* before the paper's discussion.
+For example, if a paper is going to be discussed on Thursday, you must provide your review by 12:45 on Wednesday.
 
 ## Reading a Paper
 
@@ -107,10 +107,19 @@ Third phase: judge the paper’s details
 - Think about what is missing (evaluation, assumptions, proofs...)
 
 ## Paper review
+You must Phase 1 review every paper on the syllabus.
+This is the only reading you need to do on weeks where you are a discussion leader (except for the paper you're presenting of course).
 
-Each week, you must Phase 3 review one paper.
-In the other day of the week, you must Phase 2 review another paper.
+On weeks with two days of paper reading (four papers), you must Phase 3 review one paper and Phase 2 review another paper.
+These two reviews must happen on different days.
 For example, if on a Thursday, you provide a Phase 3 review for one of that day's papers, then on Tuesday, you have to provide a Phase 2 review.
+
+On weeks with one day of paper reading (two papers), you must do one Phase 2 or one Phase 3 review.
+
+By the end of the semester, your number of Phase 2 reviews must be about the same as your number of Phase 3 reviews.
+To be precise, the difference between the number of Phase 2 reviews you did and the number of Phase 3 reviews you did must be 3 or less.
+The implication of this rule is that you must balance doing Phase 2 and Phase 3 reviews on weeks where there is only one day of reading.
+
 Note that only a restricted number of students can review a given paper.
 This is represented as the space available in the spreadsheet to track who is doing what type of review.
 These are allocated first-come, first-serve.
@@ -119,13 +128,16 @@ Please sign up for your critical/comprehension reviews using the [form](https://
 You cannot sign up for a critical/comprehension review for a paper if the eight slots are already filled for the paper.
 Remember, you must sign up for one critical and one comprehension review each week, and they should not be for papers presented in the same day.
 
-Your paper review (for either Phase) must include:
+After doing a Phase 1 review, there is no need to write or submit anything.
+
+However, you must do some writing after a Phase 2 or Phase 3 review.
+This write-up must include:
 
 - A two to three sentence summary of the problem being solved.
 - A two to three sentence summary of the main contributions.
 - Three questions about the paper. These questions might be about (but aren't limited to) ideas or concepts that you don't understand, design or implementation decisions that don't make sense to you, and questions about the problem domain.
 
-A Phase 3 *critical review* must also include:
+For a Phase 3 *critical review* this must also include:
 
 - Three critiques or critical comments about the paper, its assumptions, the system's design, etc...
 
@@ -145,8 +157,8 @@ If the paper is a *survey* which summarizes an area of research including many s
 
 ## Submitting your review
 
-Your review should be submitted as a comment in the github issue (in the `collaboration` repo) for the paper you reviewed.
-Please start your review with:
+Your review write-up should be submitted as a comment in the Github issue (in the `collaboration` repo) for the paper you reviewed.
+Please start your write-up with:
 
 ```
 Reviewer: Gabe Parmer
