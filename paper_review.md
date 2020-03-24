@@ -97,7 +97,7 @@ The goals of reading a paper:
 
 - Learn about new tools/problems/algorithms
 - Critique the paper’s science
-- Not it’s grammar nor figure colors
+- Not it’s grammar nor figure colors, unless you are a reviewer
 
 Third phase: judge the paper’s details
 
