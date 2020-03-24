@@ -28,7 +28,7 @@ This class effectively has two class structures.
 | T 3.3 | Discussion leader: ??? 6a. *A survey of secure middleware for the Internet of Things* ; Discussion leader: ??? 6b. *Trustworthy Medical Device Software* | Paper reviews |
 | R 3.5 | Discussion leader: ??? 7a. *Secure Embedded Systems* ; Discussion leader: ??? 7b. *Special Session: The Future of IoT Security* | Paper reviews |
 | T 3.10 | Discussion leader: ??? 8a. *Preserving Physical Safety Under Cyber Attacks* ; Discussion leader: ??? 8b. *Securing Real-Time Internet-of-Things* | Paper reviews |
-| R 3.12 | Discussion leader: Zach Day ([presentation](resources/local_copy/9a-security14emb_firmware.pdf)) 9a. *A Large-Scale Analysis of the Security  of Embedded Firmwares* ; Discussion leader: ??? 9b. *IoTPOT: Analysing the Rise of IoT Compromises* | Paper reviews |
+| R 3.12 | Discussion leader: ??? 9a. *A Large-Scale Analysis of the Security  of Embedded Firmwares* ; Discussion leader: ??? 9b. *IoTPOT: Analysing the Rise of IoT Compromises* | Paper reviews |
 | T 3.17 | Spring hackathon | no class |
 | R 3.19 | Spring hackathon | no class |
 | T 3.24 | Project peer feedback | [Project Checkpoint II](https://github.com/gwu-iot/collaboration/blob/master/project_criteria.md) |
