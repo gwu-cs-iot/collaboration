@@ -39,6 +39,6 @@ This class effectively has two class structures.
 | R 4.9 | Discussion leader: ??? 14a. *Don’t Talk Unless I Say So! Securing the Internet of Things With Default-Off Networking* ; Discussion leader: Ratnadeep Bhattacharya 14b. *Beetle: Flexible Communication for Bluetooth Low Energy* [pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/14b-mobisys16beetle.pdf)| Paper reviews |
 | T 4.14 | Discussion leader: Sean McBride 15a. *Chaos: a System for Criticality-Aware, Multi-core Coordination* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/15a-rtas19chaos.pdf)); Discussion leader: ??? 15b. *Virtualization on TrustZone-enabled Microcontrollers? Viola!*  | Paper reviews |
 | R 4.16 | Discussion leader: Ratnadeep Bhattacharya 16a. *Hash-routing Schemes for Information Centric Networking* ([pdf](https://github.com/ratnadeepb/collaboration/blob/master/papers/16a-Hash-routing_Schemes_for_Information_Centric_Networking.pdf)); Discussion leader: ??? 16b. *propose paper or topic here!* | Paper reviews |
-| T 4.21 | Demo in SEH B1167! Invite your friends! | |
+| T 4.21 | Discussion leader: ??? 16b. *propose paper or topic here!*; Discussion leader: ??? 16b. *propose paper or topic here!* | Paper reviews |
 | R 4.23 | Final presentation | Project github repo [finalized](https://github.com/gwu-iot/collaboration/blob/master/project_criteria.md) |
 | | Rest of your life: brag about the IoT system you created, and the awesome things you've done | |
