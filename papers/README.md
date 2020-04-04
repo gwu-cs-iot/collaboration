@@ -47,7 +47,7 @@ Arwa Alrawais, Abdulrahman Alhothaily, Chunqiang Hu, and Xiuzhen Cheng
 - *A Component Architecture for the Internet of Things* by Christopher Brooks, Chadlia Jerad, Kim, Edward A. Lee, Marten Lohstroh, Victor Nouvellet, Beth Osyk, and Matt Weber
 - *The Swarm at the Edge of the Cloud* by Ed Lee et al.
 - *A Toolkit for Construction of Authorization Service Infrastructure for the Internet of Things* by Hokeun Kim, Eunsuk Kang, Edward A. Lee, and David Broman
-- *Decision-driven Execution- A Distributed Resource Management Paradigm for the Age of IoT* by Tarek Abdelzaher, Tanvir Al Amin, Amotz Bar-Noy, William Dron, Ramesh Govindan, Reginald Hobbs, Shaohan Hu, Jung-Eun Kim, Shuochao Yao and Yiran Zhao
+- *Decision-driven Execution- A Distributed Resource Management Paradigm for the Age of IoT* ([pdf](https://github.com/gwu-iot/collaboration/blob/master/papers/12b-icdcs17decision_sched.pdf)) by Tarek Abdelzaher, Tanvir Al Amin, Amotz Bar-Noy, William Dron, Ramesh Govindan, Reginald Hobbs, Shaohan Hu, Jung-Eun Kim, Shuochao Yao and Yiran Zhao
 - *FRAME: Fault Tolerant and Real-Time Messagingfor Edge Computing* by Chao Wang, Chris Gill, and Chenyang Lu
 - *Don’t Talk Unless I Say So! Securing the Internet of Things With Default-Off Networking* by James Hong, Amit Levy, Laurynas Riliskis, and Philip Levis
 - *Beetle: Flexible Communication for Bluetooth Low Energy* by Amit Levy, James Hong, Laurynas Riliskis, Philip Levis, Keith Winstein
