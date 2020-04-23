@@ -18,6 +18,16 @@ The project grade will be based on
 | Checkpoint II | 20 |
 | Peer feedback | 20 |
 
+Or 
+
+| Action | Percent |
+| --- | --- |
+| Final result | 80 |
+| Checkpoint I | 20 |
+
+Whichever is higher. 
+Please note that the expectations for the final projects have been scaled back given the move to remote, where appropriate.
+
 ## Presentation
 
 The presentation grade is based on
