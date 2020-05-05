@@ -57,3 +57,4 @@ Please add more! PRs accepted.
 - IoT enabled prosthetics. We can detect electrical impulses from limb ends non-invasively. Then upload the data into a cloud and use ML to infer which action was intended. This would probablt also include signal processing.
 - Color changing [jewelry/acessories](https://www.instructables.com/id/BT-Controlled-LED-Wearable-With-Intel-Edison/). Changes based on the user command but it could be further extended to maybe the temperature of the room or the ambience/brightness of the current environment
 - Brain-controlled [music](https://www.youtube.com/watch?v=qSKBtEBRWi4) (through a prosthesis)
+- [Provable Anonymity](http://www.onion-router.net/Publications/or-iomodel.pdf) for Onion Routing could be useful to making a device to anonymize a network
