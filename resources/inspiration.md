@@ -57,3 +57,5 @@ Please add more! PRs accepted.
 - IoT enabled prosthetics. We can detect electrical impulses from limb ends non-invasively. Then upload the data into a cloud and use ML to infer which action was intended. This would probablt also include signal processing.
 - Color changing [jewelry/acessories](https://www.instructables.com/id/BT-Controlled-LED-Wearable-With-Intel-Edison/). Changes based on the user command but it could be further extended to maybe the temperature of the room or the ambience/brightness of the current environment
 - Brain-controlled [music](https://www.youtube.com/watch?v=qSKBtEBRWi4) (through a prosthesis)
+- [Raspberry Pi controlled sprinkler system](https://hackaday.com/2020/04/29/raspberry-pi-waters-your-lawn-serves-html/#more-410407) to automate lawn watering. Uses python to create simple web api and interfaces that with an http request app like Curler (ios) or HTTPS Request Shortcuts (android).
+
