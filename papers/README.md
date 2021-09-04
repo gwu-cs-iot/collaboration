@@ -51,3 +51,7 @@ Arwa Alrawais, Abdulrahman Alhothaily, Chunqiang Hu, and Xiuzhen Cheng
 - *FRAME: Fault Tolerant and Real-Time Messagingfor Edge Computing* by Chao Wang, Chris Gill, and Chenyang Lu
 - *Don’t Talk Unless I Say So! Securing the Internet of Things With Default-Off Networking* by James Hong, Amit Levy, Laurynas Riliskis, and Philip Levis
 - *Beetle: Flexible Communication for Bluetooth Low Energy* by Amit Levy, James Hong, Laurynas Riliskis, Philip Levis, Keith Winstein
+
+## For Future Instances of the class:
+
+- USENIX Security '21 - [The Circle Of Life: A Large-Scale Study of The IoT Malware Lifecycle](https://www.youtube.com/watch?v=1XA-IVSGCoI&list=TLPQMDQwOTIwMjG3CHRsHCtw0A)
